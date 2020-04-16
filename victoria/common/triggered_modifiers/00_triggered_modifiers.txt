@@ -1,0 +1,905 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+
+
+###########################################
+# Player Luck.
+###########################################
+player_luck = {
+	potential = {
+		ai = no
+	}
+
+	trigger = {
+		is_year = 1444
+		ai = no
+	}
+	
+	# adm
+	global_tax_modifier = 0.2
+	production_efficiency = 0.2
+	global_unrest = -2
+	stability_cost_modifier = -0.2
+	global_missionary_strength = 0.015
+	inflation_reduction = 0.05
+	prestige = 0.5
+	prestige_decay = -0.005
+	legitimacy = 1.0
+	horde_unity = 1.0
+	devotion = 1.0
+	republican_tradition = 0.3
+	technology_cost = -0.1
+	idea_cost = -0.1
+	advisor_cost = -0.5
+	tolerance_own = 2
+	tolerance_heretic = 2
+	tolerance_heathen = 2
+	enemy_core_creation = 0.6
+	core_creation = -0.2
+	vassal_income = 0.2
+	religious_unity = 0.2
+	global_autonomy = -0.1
+	imperial_authority = 0.2
+	free_adm_policy = 2
+	
+	# dip
+	num_accepted_cultures = 2
+	culture_conversion_cost = -0.2
+	naval_morale = 0.2
+	trade_efficiency = 0.2
+	global_trade_power = 0.4
+	global_prov_trade_power_modifier = 0.2
+	trade_steering = 0.2
+	global_tariffs = 0.2
+	diplomatic_reputation = 2
+	diplomatic_upkeep = 2
+	merchants = 2
+	diplomats = 2
+	naval_maintenance_modifier = -0.4
+	ship_durability = 0.6
+	war_exhaustion = -0.1
+	war_exhaustion_cost = -0.2
+	navy_tradition = 1.0
+	navy_tradition_decay = -0.01
+	leader_naval_fire = 3
+	leader_naval_shock = 3
+	leader_naval_manuever = 3
+	spy_offence = 0.4
+	global_spy_defence = 0.4
+	global_ship_recruit_speed = -0.2
+	blockade_efficiency = 0.4
+	embargo_efficiency = 0.4
+	prestige_from_naval = 1.0
+	range = 0.8
+	colonists = 1
+	global_colonial_growth = 100
+	ae_impact = -0.2
+	privateer_efficiency = 0.3
+	diplomatic_annexation_cost = -0.2
+	heavy_ship_cost = -0.2
+	light_ship_cost = -0.2
+	galley_cost = -0.2
+	transport_cost = -0.2
+	heavy_ship_power = 0.2
+	light_ship_power = 0.2
+	galley_power = 0.2
+	free_dip_policy = 2
+	
+	# mil
+	land_morale = 0.2
+	discipline = 0.1
+	land_maintenance_modifier = -0.4
+	merc_maintenance_modifier = -0.4
+	possible_mercenaries = 0.5
+	global_manpower_modifier = 0.3
+	manpower_recovery_speed = 0.4
+	reinforce_speed = 0.3
+	hostile_attrition = 0.5
+	army_tradition = 1.0
+	army_tradition_decay = -0.01
+	leader_land_fire = 3
+	leader_land_shock = 3
+	leader_land_manuever = 3
+	leader_siege = 3
+	global_regiment_recruit_speed = -0.2
+	prestige_from_land = 1.0
+	defensiveness = 0.2
+	siege_ability = 0.2
+	infantry_power = 0.2
+	cavalry_power = 0.2
+	artillery_power = 0.2
+	infantry_cost = -0.3
+	cavalry_cost = -0.3
+	artillery_cost = -0.3
+	fort_maintenance_modifier = -0.5
+	free_mil_policy = 2
+	
+	# new
+	years_of_nationalism = -10
+	global_sailors_modifier = 0.4
+	sailors_recovery_speed = 0.2
+	may_perform_slave_raid = yes
+	
+	# newer
+	yearly_harmony = 0.5
+	harmonization_speed = 0.2
+	meritocracy = 1.0
+	monarch_admin_power = 1
+	max_absolutism = 20
+	yearly_absolutism = 1.0
+	administrative_efficiency = 0.1
+	institution_spread_from_true_faith = 0.4
+	global_institution_spread = 0.4
+	embracement_cost = -0.4
+	max_states = 12
+	church_power_modifier = 0.4
+	yearly_corruption = -0.2
+	caravan_power = 0.4
+	monthly_fervor_increase = 4
+	global_trade_goods_size_modifier = 0.2
+	adm_tech_cost_modifier = -0.1
+	build_time = -0.4
+	state_maintenance_modifier = -0.4
+	autonomy_change_time = -0.4
+	mercenary_discipline = 0.1
+	rival_border_fort_maintenance = -0.4
+	siege_blockade_progress = 1
+	cav_to_inf_ratio = 0.6
+	artillery_bonus_vs_fort = 2
+	monarch_military_power = 1
+	backrow_artillery_damage = 0.2
+	harsh_treatment_cost = -0.4
+	fire_damage_received = -0.2
+	shock_damage_received = -0.2
+	cavalry_flanking = 0.5
+	shock_damage = 0.2
+	fire_damage = 0.2
+	movement_speed = 0.2
+	army_tradition_from_battle = 1.0
+	monthly_militarized_society = 0.2
+	reinforce_cost_modifier = -0.2
+	loot_amount = 0.4
+	garrison_size = 0.4
+	land_attrition = -0.4
+	mil_tech_cost_modifier = -0.1
+	free_leader_pool = 2
+	global_regiment_cost = -0.2
+	mercenary_cost = -0.2
+	recover_army_morale_speed = 0.2
+	warscore_cost_vs_other_religion = -0.25
+	war_taxes_cost_modifier = -0.4
+	monarch_diplomatic_power = 1
+	liberty_desire_from_subject_development = -0.4
+	reduced_liberty_desire_on_same_continent = 20
+	naval_tradition_from_battle = 1.0
+	sunk_ship_morale_hit_recieved = -0.4
+	global_naval_engagement_modifier = 0.2
+	global_ship_trade_power = 0.4
+	native_assimilation = 0.6
+	reduced_liberty_desire = 20
+	migration_cooldown = -0.4
+	envoy_travel_time = -0.4
+	province_warscore_cost = -0.2
+	dip_tech_cost_modifier = -0.2
+	papal_influence = 2
+	trade_range_modifier = 0.8
+	unjustified_demands = -0.4
+	rebel_support_efficiency = 0.8
+	placed_merchant_power = 10
+	global_own_trade_power = 0.2
+	recover_navy_morale_speed = 0.2
+	global_foreign_trade_power = 0.2
+	improve_relation_modifier = 0.2
+	naval_attrition = -0.4
+}
+
+###########################################
+# Discovery of the East Indian trade route.
+###########################################
+east_indian_trade_route = {
+	potential = {
+		num_of_ports = 1
+		NOT = {
+			capital_scope = {
+				continent = asia
+			}
+		}
+		NOT = {
+			capital_scope = {
+				continent = oceania
+			}
+		}
+		
+	}
+
+	trigger = {
+		has_discovered = 1460 # Cape of Good Hope
+		num_of_ports = 4
+		has_idea = quest_for_the_new_world
+		any_active_trade_node = {
+			has_merchant = ROOT
+			OR = {
+				province_id = 1361 # Straits of Johor
+				province_id = 1343 # Ganges Delta
+				province_id = 504 # Sind
+				province_id = 1340 # Comorin Cape
+			}
+		}
+	}
+
+	trade_efficiency = 0.05	
+}
+
+#########################################################
+# Coptic control of Alexandria.
+#########################################################
+#coptic_alexandria = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 358	# Alexandria
+#		religion = coptic
+#	}
+#
+#	trigger = {
+#		owns = 358 # Alexandria
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+#
+#########################################################
+# Theravada control of the temple of the Sacred Tooth.
+#########################################################
+#theravada_kotte = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 2099	# Kandy
+#		religion = buddhism #Theravada
+#	}
+#
+#	trigger = {
+#		owns = 2099 # Kandy
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Vajrayana control of Lhasa.
+######################################
+#vajrayana_lhasa = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 677	# Lhasa
+#		religion = vajrayana
+#	}
+#
+#	trigger = {
+#		owns = 677 # Lhasa
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Mahayana control of Luoyang.
+######################################
+#mahayana_louyang = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 1836	# Luoyang
+#		religion = mahayana
+#	}
+#
+#	trigger = {
+#		owns = 1836 # Luoyang
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Buddhist control of Bodh Gaya.
+######################################
+#buddhist_bodh_gaya = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 558	# Patna (Bodh Gaya)
+#		OR = {
+#			religion = buddhism
+#			religion = vajrayana
+#			religion = mahayana
+#		}
+#	}
+#
+#	trigger = {
+#		owns = 558 # Patna (Bodh Gaya)
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Hindu control of Varanasi.
+######################################
+#hindu_varanasi = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 2095	# Varanasi
+#		religion = hinduism
+#	}
+#
+#	trigger = {
+#		owns = 2095 # Varanasi
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+
+######################################
+# Inti control of Pachacamac.
+######################################
+#inti_lima = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 809 # Lima
+#		religion = inti
+#	}
+#
+#	trigger = {
+#		owns = 809 # Lima
+#		is_religion_reformed = yes
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Nahuatl control of Cholula.
+######################################
+#nahuatl_cholula = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 2644	# Cholula
+#		religion = nahuatl
+#	}
+#
+#	trigger = {
+#		owns = 2644 # Cholula
+#		is_religion_reformed = yes
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Mayan control of Chichen Itza.
+######################################
+#mayan_chichen_itza = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 846	# Chicen Itza
+#		religion = mesoamerican_religion
+#	}
+#
+#	trigger = {
+#		owns = 846  # Chicen Itza
+#		is_religion_reformed = yes
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Sikh control of Amritsar.
+######################################
+#sikh_amritsar = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 2075	# Amritsar
+#		religion = sikhism
+#	}
+#
+#	trigger = {
+#		owns = 2075 # Amritsar
+#		2075 = { religion = sikhism }
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Christian control of Mecca.
+######################################
+#christian_mecca = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		has_discovered = 385	# Mecca
+#		religion_group = christian
+#	}
+#
+#	trigger = {
+#		owns = 385 # Mecca
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+#
+######################################
+# Custodian of the Two Holy Mosques
+######################################
+custodian_of_the_two_holy_mosques = {
+	potential = {
+		normal_or_historical_nations = yes
+		has_discovered = 385	# Mecca
+		has_discovered = 384	# Medina
+		religion_group = muslim
+	}
+
+	trigger = {
+		is_free_or_tributary_trigger = yes
+		owns_or_vassal_of = 385
+		owns_or_vassal_of = 384
+	}
+
+	legitimacy = 0.5
+	missionaries = 1
+}
+###########################################
+# Jerusalem held by Abrahamic Faiths
+###########################################
+#jerusalem_held = {
+#	potential = {
+#		normal_or_historical_nations = yes
+#		OR = {
+#			religion_group = christian
+#			religion_group = muslim
+#			religion = jewish
+#		}
+#		has_discovered = 379	# Judea
+#	}
+#
+#	trigger = {
+#		owns = 379 # Judea
+#	}
+#
+#	prestige = 0.5
+#	missionaries = 1
+#}
+
+######################################
+# Catholic control of Rome.
+######################################
+catholic_rome = {
+	potential = {
+		normal_or_historical_nations = yes
+		has_discovered = 118	# Roma
+		religion = catholic
+		NOT = { tag = PAP }
+	}
+
+	trigger = {	
+		NOT = { overlord_of = PAP }
+		owns_or_vassal_of = 118 # Roma		
+		NOT = { tag = ITA }
+		NOT = { tag = ROM }
+	}
+
+	papal_influence = -10
+	diplomatic_reputation = -1
+	#icon = 9
+}
+
+papal_subjugation = {
+	potential = {
+		normal_or_historical_nations = yes
+		has_discovered = 118	# Roma
+		religion = catholic
+		NOT = { tag = PAP }
+	}
+
+	trigger = {	
+		overlord_of = PAP
+		NOT = { tag = ITA }
+	}
+
+	diplomatic_reputation = -2
+	#icon = 9
+}
+
+
+rapid_collapse_of_society = {
+	potential = {
+		normal_or_historical_nations = yes
+		capital_scope = {
+			OR = {
+				continent = north_america
+				continent = south_america
+				continent = new_world
+			}
+		}
+		
+	}
+	trigger = {
+		NOT = { has_institution = feudalism }
+		custom_trigger_tooltip = {
+			tooltip = rapid_collapse_of_society_tooltip
+			has_country_flag = european_diseases_struck
+			NOT = {
+				had_country_flag = {
+					flag = european_diseases_struck
+					days = 9125
+				}
+			}
+		}
+	}
+	
+	all_power_cost = 0.33
+	discipline = -0.1
+	land_morale = -0.2
+	
+}
+
+######################################
+# Italian - Submission to Emperor
+######################################
+submission_to_emperor = {
+	potential = {
+		has_global_flag = italy_out_of_HRE
+		culture_group = latin
+	}
+
+	trigger = {
+		is_emperor = no
+		NOT = { tag = ITA }
+		capital_scope = {
+			is_part_of_hre = yes
+		}
+	}
+
+	global_unrest = 3
+	stability_cost_modifier = 0.1
+	prestige = -1
+}
+
+
+	
+
+
+
+
+######################################
+# Counter Revolution
+######################################
+counter_revolution = {
+	potential = {
+		revolution_target_exists = yes
+		is_revolution_target = no
+	}
+
+	trigger = {
+		capital_scope = { continent = europe }
+		revolution_target_exists = yes
+		is_revolution_target = no
+		is_free_or_tributary_trigger = yes
+		NOT = {
+			revolution_target = {
+				war_with = ROOT
+			}
+			revolution_target = {
+				truce_with = ROOT
+			} 
+		}
+		government = monarchy
+	}
+	liberty_desire_from_subject_development = 0.2
+}
+
+
+
+######################################
+# Reaction
+######################################
+reaction = {
+	potential = {
+		revolution_target_exists = yes
+		capital_scope = { continent = europe }
+	}
+
+	trigger = {
+		capital_scope = { continent = europe }
+		revolution_target_exists = yes
+		is_revolution_target = no
+		is_free_or_tributary_trigger = yes
+		government = monarchy
+		revolution_target = {
+			war_with = ROOT
+		}  
+
+	}
+	liberty_desire_from_subject_development = -0.2
+}
+
+######################################
+# Crusader
+######################################
+crusader = {
+	potential = {
+		religion = catholic
+		crusade_target = {
+			exists = yes
+		}
+		
+	}
+
+	trigger = {
+		
+		crusade_target = {
+			war_with = ROOT
+			any_province = {
+				controlled_by = root
+			}
+		}  
+		land_maintenance = 1.0
+	}
+
+	global_manpower_modifier = 0.3
+	global_tax_modifier = 0.1
+	land_morale = 0.10
+	prestige = 1
+	papal_influence = 1
+	devotion = 0.25
+	#icon = 9
+}
+
+######################################
+# Excommunication
+######################################
+excommunication = {
+	potential = {
+		religion = catholic	
+	}
+
+	trigger = {
+		is_excommunicated = yes
+		
+	}
+
+	prestige = -2
+	tolerance_own = -3
+	devotion = -5
+	papal_influence = -10
+	#icon = 10
+}
+
+##################################################
+# The Pentarchy
+##################################################
+pentarchy_mod = {
+	potential = {
+		normal_or_historical_nations = yes
+		religion = orthodox
+		OR = {
+			has_discovered = 118 	# Rome
+			has_discovered = 151 	# Constantinople
+			has_discovered = 2313 	# Antioch
+			has_discovered = 379 	# Jerusalem
+			has_discovered = 358 	# Alexandria
+		}
+	}
+
+	trigger = {
+		owns = 118 	# Rome
+		owns = 151 	# Constantinople
+		owns = 2313 # Antioch
+		owns = 379 	# Jerusalem
+		owns = 358 	# Alexandria
+		118 = { religion = orthodox }
+		151 = { religion = orthodox }
+		2313 = { religion = orthodox }
+		379 = { religion = orthodox }
+		358 = { religion = orthodox }
+	}
+	
+	prestige = 0.5
+	missionaries = 1
+}
+
+##################################################
+# China modifiers
+##################################################
+the_mandate_of_heaven = {
+	potential = {
+		has_reform = celestial_empire
+		NOT = { has_dlc = "Mandate of Heaven" }
+	}
+	
+	trigger = {	
+		stability = 0
+		legitimacy = 60
+		num_of_cities = 20
+	}
+
+	stability_cost_modifier = -0.10
+	global_unrest = -5
+}
+
+the_mandate_of_heaven_lost = {
+	potential = {
+		has_reform = celestial_empire
+		NOT = { has_dlc = "Mandate of Heaven" }
+	}
+
+	trigger = {
+		OR = {
+			NOT = { stability = 0 }
+			NOT = { legitimacy = 60 }
+			NOT = { num_of_cities = 20 }	
+		}
+	}
+
+	discipline = -0.1
+	stability_cost_modifier = 0.5
+	global_unrest = 10
+}
+
+lost_control_of_beijing = {
+	potential = {
+		has_reform = celestial_empire
+		has_dlc = "Mandate of Heaven"
+	}
+
+	trigger = {
+		OR = {
+			NOT = { owns = 1816 }
+			NOT = { controls = 1816 }
+		}
+	}
+
+	imperial_mandate = -0.05
+}
+
+lost_control_of_nanjing = {
+	potential = {
+		has_reform = celestial_empire
+		has_dlc = "Mandate of Heaven"
+	}
+
+	trigger = {
+		OR = {
+			NOT = { owns = 1821 }
+			NOT = { controls = 1821 }
+		}
+	}
+
+	imperial_mandate = -0.05
+}
+
+lost_control_of_canton = {
+	potential = {
+		has_reform = celestial_empire
+		has_dlc = "Mandate of Heaven"
+	}
+
+	trigger = {
+		OR = {
+			NOT = { owns = 667 }
+			NOT = { controls = 667 }
+		}
+	}
+
+	imperial_mandate = -0.05
+}
+
+waging_war_for_china = {
+	potential = {
+		has_reform = celestial_empire
+		has_dlc = "Mandate of Heaven"
+	}
+
+	trigger = {
+		is_in_war = {
+			attacker_leader = root
+			casus_belli = cb_chinese_unification
+		}
+	}
+	
+	imperial_mandate = 0.05
+}
+
+##################################################
+# HRE modifiers
+##################################################
+hre_dominant_catholic = {
+	potential = {
+		capital_scope = {
+			continent = europe
+		}
+		OR = {
+			religion = catholic
+			religion = protestant
+		}
+	}
+
+	trigger = {
+		religion = catholic
+		hre_religion = catholic
+		hre_religion_locked = yes
+	}
+	
+	legitimacy = 0.25
+	tolerance_own = 1
+	global_missionary_strength = 0.01
+	imperial_authority = 0.25
+}
+
+hre_dominant_protestant = {
+	potential = {
+		capital_scope = {
+			continent = europe
+		}
+		OR = {
+			religion = catholic
+			religion = protestant
+		}
+	}
+
+	trigger = {
+		religion = protestant
+		hre_religion = protestant
+		hre_religion_locked = yes
+	}
+	
+	legitimacy = 0.25
+	tolerance_own = 1
+	global_missionary_strength = 0.01
+	imperial_authority = 0.25
+}
+
+######################################
+# Robot parts
+######################################
+
+synthetic_remnants = {
+	potential = {
+		has_global_flag = synthetics_defeated
+	}
+	trigger = {
+		has_global_flag = synthetics_defeated
+	}
+	technology_cost = -0.25
+}
+
+######################################
+# The Golden Age of Piracy
+######################################
+
+golden_age_of_piracy = {
+	potential = {
+		has_global_flag = golden_age_of_piracy
+		NOT = { # lasts 50 years
+			had_global_flag = { flag = golden_age_of_piracy days = 18250 }
+		}
+		1516 = { has_discovered = ROOT }
+	}
+	trigger = {
+		1516 = {
+			privateer_power = { country = ROOT share = 1 }
+		}
+	}
+	privateer_efficiency = 0.2
+}

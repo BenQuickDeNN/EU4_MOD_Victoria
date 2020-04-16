@@ -1,0 +1,81 @@
+country_decisions = {
+	development_of_los_angeles = {
+		potential = {
+			tag = USA
+			owns_core_province = 868 #Chumash
+			868 = {
+				NOT = { has_province_modifier = holland_polders }
+			}
+		}
+		allow = {
+			owns_core_province = 868 #Chumash
+			adm_tech = 4 # Improved Drainage4
+		}
+		effect = {
+			868 = {
+				change_province_name = "Los Angeles"
+				rename_capital = "Los Angeles"
+				center_of_trade = 1
+				add_permanent_province_modifier = {
+					name = "holland_polders"
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	development_of_san_francisco = {
+		potential = {
+			tag = USA
+			owns_core_province = 2021 #Miwok
+			2021 = {
+				NOT = { has_province_modifier = holland_polders }
+			}
+		}
+		allow = {
+			owns_core_province = 2021 #Miwok
+			adm_tech = 4 # Improved Drainage4
+		}
+		effect = {
+			2021 = {
+				change_province_name = "San Francisco"
+				rename_capital = "San Francisco"
+				center_of_trade = 1
+				add_permanent_province_modifier = {
+					name = "holland_polders"
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	development_of_Miami = {
+		potential = {
+			tag = USA
+			owns_core_province = 943 #Miami
+			943 = {
+				NOT = { has_province_modifier = holland_polders }
+			}
+		}
+		allow = {
+			owns_core_province = 943 #Miami
+			adm_tech = 4 # Improved Drainage4
+		}
+		effect = {
+			943 = {
+				center_of_trade = 1
+				add_permanent_province_modifier = {
+					name = "holland_polders"
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

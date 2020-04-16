@@ -1,0 +1,637 @@
+﻿l_english:
+ DLC_dlc001_TOOLTIP_INSTANT:0 "Œvt^b‰NUSMOS"
+ DLC_dlc001_TOOLTIP_DELAYED:0 "- (uŽNÕlýVŒTNR ˜0WHS11*NýV¶R„vìryr„v1µuUSMO!j‹W"
+ DLC_dlc002_TOOLTIP_INSTANT:0 "°eg‘šëXUSMOS"
+ DLC_dlc002_TOOLTIP_DELAYED:0 "- eY¯eüfÿâl¯eŒTlšFzœKQ„vìryr‘šuQ!j‹W"
+ DLC_dlc003_TOOLTIP_INSTANT:0 "ü‘šuQUSMOS"
+ DLC_dlc003_TOOLTIP_DELAYED:0 "- Ëzv–›RÿâlpQŒTÄOW¯e„vìryr‘šuQ!j‹W"
+ DLC_dlc004_TOOLTIP_INSTANT:1 "ffN°eg…Q¹RS"
+ DLC_dlc004_TOOLTIP_DELAYED:0 "- 28*N°e‹NöN\n- 64*NIN˜˜‹NöNþVGr\n- 3*N°e³Q®‹"
+ DLC_dlc005_TOOLTIP_INSTANT:0 "ŽýV¦h"
+ DLC_dlc005_TOOLTIP_DELAYED:0 "ŽýV„v°e…Q¹RÿSìbÿ\n- 57*N°e‹NöN\n- 10*NIN˜˜‹NöNþVGr\n- °e„vŽýV3µuŒT4µuUSMO!j‹W"
+ DLC_dlc006_TOOLTIP_INSTANT:0 "+täQðQ"
+ DLC_dlc006_TOOLTIP_DELAYED:0 "Üb`S­^„v°e…Q¹RÿSìbÿ\n- 16*N°e‹NöN\n- 16*N°eûN¡R\n- 13*NIN˜˜‹NöNþVGr\n- 4Íy°e„vÜb`S­^USMO!j‹W"
+ DLC_dlc007_TOOLTIP_INSTANT:1 "ýV¶RªuõV‘x"
+ DLC_dlc007_TOOLTIP_DELAYED:0 "- 8*N(W0WbV0WþV!jVïSÁ‰„v°e0Wh"
+ DLC_dlc008_TOOLTIP_INSTANT:0 "TëXfWN!X„vw–K„ó—PNS"
+ DLC_dlc008_TOOLTIP_DELAYED:0 "- HNÜb`S­^ŒTeY¯eüfÆQY„v	Nag°eó—h"
+ DLC_dlc009_TOOLTIP_INSTANT:1 "ýV¶RªuõV‘xII"
+ DLC_dlc009_TOOLTIP_DELAYED:0 "- 11*N(W0WbV0WþV!jVïSÁ‰„v°e0Wh"
+ DLC_dlc010_TOOLTIP_INSTANT:0 "Vg)YX"
+ DLC_dlc010_TOOLTIP_DELAYED:0 "- AQ¸‹ub–Hg°eNLu\n- ibEQŽ2mWW„Hg6R\n- nbo–kl0WýV¶R"
+ DLC_dlc011_TOOLTIP_INSTANT:0 "VgwUSMOS"
+ DLC_dlc011_TOOLTIP_DELAYED:0 "- 16Íy°e'YF–„v‰ísYrŒTa„„Yr°eUSMO!j‹W"
+ DLC_dlc012_TOOLTIP_INSTANT:0 "Ž2mWW„USMOS"
+ DLC_dlc012_TOOLTIP_DELAYED:0 "- 8ÍyŽ2mWW„ýV¶R°eUSMO!j‹WÿSìbRWúWÿfmA›ŒTÏ‚Ïe"
+ DLC_dlc013_TOOLTIP_INSTANT:0 "°eNLuKNLk"
+ DLC_dlc013_TOOLTIP_DELAYED:0 "- HNŽ2mWW„ŒTwmYwýNýV¶RÆQY„v	Nag°eó—h"
+ DLC_dlc014_TOOLTIP_INSTANT:0 "1WÞ‹‚˜Lk"
+ DLC_dlc014_TOOLTIP_DELAYED:0 "- NagyrŠkó—hÿSŽN8nb„v12gýN ReQ‚‚åe„v0k|T"
+ DLC_dlc015_TOOLTIP_INSTANT:0 "Ž2mWW„USMOSII"
+ DLC_dlc015_TOOLTIP_DELAYED:0 "- 10ÍyŽ2mWW„„v°euQ!jÿSìbyKQ¯eÿ³uæt—ŒTeY	TiOæt"
+ DLC_dlc016_TOOLTIP_INSTANT:0 "NR ˜ÊSÕlpQ‰„v–kl0WUSMOS"
+ DLC_dlc016_TOOLTIP_DELAYED:0 "- 16Íy(uŽNñ‚<hpQŒTÕlpQ‰(W°e'YF–„v°eUSMO!j‹W"
+ DLC_dlc017_TOOLTIP_INSTANT:0 "Fz¯e—gŒ˜î•–wÏP"
+ DLC_dlc017_TOOLTIP_DELAYED:0 "- žX R†N21ÍyFz¯e—gýV¶R„vŒ˜î•IuÏP"
+ DLC_dlc018_TOOLTIP_INSTANT:0 "ýVÌRº‹"
+ DLC_dlc018_TOOLTIP_DELAYED:0 "- °e„v8flQøSHg6R\n- °e„v–K…Y²NLˆ¨R\n- Ç–cOÁy cw\n- ú^.Ð³l"
+ DLC_dlc019_TOOLTIP_INSTANT:0 "Fz¯e—gwm›QUSMOS"
+ DLC_dlc019_TOOLTIP_DELAYED:0 "- 12ÍyFz¯e—gýV¶R„v°e9‚êS!j‹W"
+ DLC_dlc020_TOOLTIP_INSTANT:0 "8fýV¶RUSMOS"
+ DLC_dlc020_TOOLTIP_DELAYED:0 "- 16 Íy?–Éb!0íp±šN0TKQ0ú‹+YåTW·V„v°eUSMO!j‹W"
+ DLC_dlc021_TOOLTIP_INSTANT:0 "qQŒTýV"
+ DLC_dlc021_TOOLTIP_DELAYED:0 "- wƒpQqQŒTýV„v°eHg6R\n- FUNqQŒTýV„v°e>mû|û|ßu\n- ìrÁˆ6R\n- qQŒTýV„v°e‹NöN"
+ DLC_dlc024_TOOLTIP_INSTANT:0 "pS¦^!k'YF–USMOS"
+ DLC_dlc024_TOOLTIP_DELAYED:0 "- 12 ÍymR RÉb0×kbY6w±KOWIrpS¦^Ye0Fz¯e—gpS¦^ýV¶R„v°eUSMO!j‹W"
+ DLC_dlc025_TOOLTIP_INSTANT:0 "pS¦^wm›QUSMOS"
+ DLC_dlc025_TOOLTIP_DELAYED:0 "- 12ÍypS¦^0WHSýV¶R„v°e9‚êS!j‹W"
+ DLC_dlc026_TOOLTIP_INSTANT:0 "qQŒTýVó—PNS"
+ DLC_dlc026_TOOLTIP_DELAYED:0 "- 5ag°eó—h"
+ DLC_dlc027_TOOLTIP_INSTANT:0 "YRPRuQÕl"
+ DLC_dlc027_TOOLTIP_DELAYED:0 "- 'k2m„v—RYeTßvb‰N\n- “úQi—‹TbO6Ri—‹T\n- N.•GSµu0‚–\n- ùRD–¸^ýVŒTßvËS	gôf'Y„vqVÍT›R"
+ DLC_dlc028_TOOLTIP_INSTANT:0 "yó—TßvUSMOS"
+ DLC_dlc028_TOOLTIP_DELAYED:0 "- 12Íy°e„v'k2mýV¶R2µuuQ!jÿSìb<S·VpQÿÕlpQ‰ÿñ‚<hpQŒTÑžîh"
+ DLC_dlc029_TOOLTIP_INSTANT:0 ")YINYeTwßvS"
+ DLC_dlc029_TOOLTIP_DELAYED:0 "- 12Íy'k2mýV¶R„v2µuuQ!jÿSìb‰ísYr0Ye—RýV0eY0W)RŒTLNSÆY"
+ DLC_dlc030_TOOLTIP_INSTANT:0 "b‰NKNLk"
+ DLC_dlc030_TOOLTIP_DELAYED:0 "- 5ag(Wb‰Nöe­d>e„vó—h"
+ DLC_dlc031_TOOLTIP_INSTANT:0 "ªg®p0›QŸN¢”Á”"
+ DLC_dlc031_TOOLTIP_DELAYED:1 "- 5–™ŸSHró—PN„vÑ‘^SÎ˜÷mó—Hr,gÿvQ-NÛV–™O(Wböe­d>e"
+ DLC_dlc033_TOOLTIP_INSTANT:0 "ÄžÑ‘ýV"
+ DLC_dlc033_TOOLTIP_DELAYED:0 "- êšRINýV¶R¾‹¡‹hV & –HgýV¶R\n- °e„vŽ2mŸSOOl—RYeHg6R\n- ÍsR9‚–\n- XbS·V‰Ì‘šN¯eag¦u"
+ DLC_dlc034_TOOLTIP_INSTANT:0 "WSŽUSMOS"
+ DLC_dlc034_TOOLTIP_DELAYED:0 "- 12ÍyWSŽ2mŒT‰R,r¯eWW„„v°euQ!jÿSìbpS RÿlšnfRŒTþV®vWSôT"
+ DLC_dlc035_TOOLTIP_INSTANT:0 "-NŽ2mUSMOS"
+ DLC_dlc035_TOOLTIP_DELAYED:0 "- 12Íy-NŽ2mWW„„v°euQ!jÿSìb?–yQyrKQÿ›sÅ–ŒTs|¯eyrKQ"
+ DLC_dlc036_TOOLTIP_INSTANT:0 "¢c0tKNLk"
+ DLC_dlc036_TOOLTIP_DELAYED:0 "- 5ag(WŒTs^–klöe­d>e„v°eó—h"
+ DLC_dlc037_TOOLTIP_INSTANT:0 "ªg®p0›QŸN¢”Á” ,rŒNwS"
+ DLC_dlc037_TOOLTIP_DELAYED:0 "- 5–™°e„vÑ‘^SÎ˜÷mó—"
+ DLC_dlc038_TOOLTIP_INSTANT:0 "†SòSN„vsY'`"
+ DLC_dlc038_TOOLTIP_DELAYED:0 "Zw&qŽN†SòS•³l-N„vÍ‘‰sY'`ÿSìbÿ\n- 100*N°e‹NöN\n- 4*NIN˜˜‹NöNþVGr\n- 22Íy(usY'`Œ˜î•–wÏP"
+ DLC_dlc039_TOOLTIP_INSTANT:0 "8^Æ‹"
+ DLC_dlc039_TOOLTIP_DELAYED:0 "- ®‹O\n- °eYeNiOYe„v°e©sÕl\n- °e„v^SýV’N¨R\n- ^y1WWlš^ýVê1u^"
+ DLC_dlc040_TOOLTIP_INSTANT:0 "^yCgýVUSMOS"
+ DLC_dlc040_TOOLTIP_DELAYED:0 "- 16Íy°e„v^yCgýV¶RuQ!jÿSìbag˜‘šëXâV0Ye—RýVŒTISb–‘šëXâV"
+ DLC_dlc041_TOOLTIP_INSTANT:0 "iOYeUSMOS"
+ DLC_dlc041_TOOLTIP_DELAYED:1 "- 16Íy°e„viOYeýV¶RuQ!jÿSìb·^êÿ'YŠŒT‰Ï…"
+ DLC_dlc042_TOOLTIP_INSTANT:0 "'YýVUSMOS"
+ DLC_dlc042_TOOLTIP_DELAYED:0 "- 17Íy°e„v'k2mýV¶RuQ!jÿSìbñ‚<hpQÿ<S·VpQÿeY¯eüfŒTÄOW¯e0"
+ DLC_dlc043_TOOLTIP_INSTANT:0 "ê1u^USMOS"
+ DLC_dlc043_TOOLTIP_DELAYED:0 "- 15Íy°e„v-N'kýV¶RuQ!jÿSìbÕlpQKQyÿIl!XŒTLNSÆY"
+ DLC_dlc044_TOOLTIP_INSTANT:0 "ïQ)R„vó—PNS"
+ DLC_dlc044_TOOLTIP_DELAYED:0 "- 5agKairi Blodeuyn SawlerjOòf„v°eó—hÿupaegnŽNšN2mLkòf"
+ DLC_dlc046_TOOLTIP_INSTANT:0 "åT(„KQ"
+ DLC_dlc046_TOOLTIP_DELAYED:0 "- 3*N°e6–BSÿåT(„KQ0PŸs|ŒTèÏe\n- yrŠk„våT(„KQ?eœ^\n- •u)YáOðN„v—RYe|Q¹RHg6R\n- Y²NÍSˆ™\n- ŸSOOl?eVr"
+ DLC_dlc047_TOOLTIP_INSTANT:0 "ÑžwmUSMOS"
+ DLC_dlc047_TOOLTIP_DELAYED:0 "- 32 ÍyØš R0t0KQÌ‘s|šN0ÄreYYWåNÊSNb^Wíp„v°eUSMO!j‹W"
+ DLC_dlc048_TOOLTIP_INSTANT:0 "O'YèK„USMOS"
+ DLC_dlc048_TOOLTIP_DELAYED:0 "- 32 ÍyÑ‘^WlýV0ú‹Öv0^(g?QåNÊSLNyQ+RKQ„v°eUSMO!j‹W"
+ DLC_dlc049_TOOLTIP_INSTANT:0 "'k2m‘šuQUSMOS"
+ DLC_dlc049_TOOLTIP_DELAYED:0 "- 12Íy(uŽNñ‚<hpQ0ÕlpQ‰ŒT‰ísYr„v‘šuQ!j‹W"
+ DLC_dlc050_TOOLTIP_INSTANT:0 "‰^XS"
+ DLC_dlc050_TOOLTIP_DELAYED:0 "- 18Íy‰'k0Fz¯e—g0šN2m0pS¦^0^—2måNÊSWSSŽ2m‡eS„v°e‰^X!j‹W"
+ DLC_dlc052_TOOLTIP_INSTANT:0 "SabatonPN–„v„vó—h"
+ DLC_dlc052_TOOLTIP_DELAYED:0 "- 5agSabatonjOòf„v°eó—h"
+ DLC_dlc053_TOOLTIP_INSTANT:0 ")YINYeIN‰ýV¶RUSMOS"
+ DLC_dlc053_TOOLTIP_DELAYED:0 "- 9Íy(uŽNeY0W)R0âlpQŒT‰ísYr„v°eUSMO!j‹W"
+ DLC_dlc054_TOOLTIP_INSTANT:0 "yó—>mIN‰ýV¶RUSMOS"
+ DLC_dlc054_TOOLTIP_DELAYED:0 "- 8Íy(uŽNÕlpQ‰0nfœëXŒT^txQ„v°eUSMO!j‹W"
+ DLC_dlc055_TOOLTIP_INSTANT:0 "bìN„vwm"
+ DLC_dlc055_TOOLTIP_DELAYED:0 "- Øšµuwm›QûN¡R\n- ôTôTÌ‘wm×v\n- cYÇ–cO›QâV\n- 8fTwßv\n- °e„vô•ŒLˆ¨R\n- R«NŒTwPÖS0WþV"
+ DLC_dlc056_TOOLTIP_INSTANT:0 "a'Y)RUSMOS"
+ DLC_dlc056_TOOLTIP_DELAYED:0 "- 16ÍyiOW&O(„0s|pQ0±NÒR¯eŒTZ<S¯e„v°eUSMO!j‹W"
+ DLC_dlc057_TOOLTIP_INSTANT:0 "N^—USMOS"
+ DLC_dlc057_TOOLTIP_DELAYED:0 "- 16ÍyÃW^XÄOÔkšNNªRÔkšN00tlšÌ‘ÊS¯eæt‰Ì‘ýV¶R„v°eUSMO!j‹W"
+ DLC_dlc058_TOOLTIP_INSTANT:0 "S^—USMOS"
+ DLC_dlc058_TOOLTIP_DELAYED:0 "- 16Íy?–SÊSS0idmåT0lšFzœKQŒTz<S¯e„v°eUSMO!j‹W"
+ DLC_dlc059_TOOLTIP_INSTANT:0 "ïQ)R„vó—PNSII"
+ DLC_dlc059_TOOLTIP_DELAYED:0 "- 5agKairi Blodeuyn SawlerjOòf„vó—hÿupaegnŽNÜN0WHS"
+ DLC_dlc060_TOOLTIP_INSTANT:0 "ºNCg"
+ DLC_dlc060_TOOLTIP_DELAYED:0 "- °ežXRHV0WMO\n- TINyr(\n- M‘vPïSÇ‹s²RTwûY·ƒ—VNïSåNÅbûNDd?ew\n- ÑynfyrýV¶Råb	g1W0WHg6R\n- eY¯eüf^ýV„vìr	g?eSO"
+ DLC_dlc061_TOOLTIP_INSTANT:0 "åe3wüflQýVUSMOS"
+ DLC_dlc061_TOOLTIP_DELAYED:0 "- 24Íyåe3wüflQýV„v1µuÊS3µuuQ!jÿSìbôTO)RšN0Ilú‹ZŒT(„KQîh"
+ DLC_dlc062_TOOLTIP_INSTANT:0 "‰^—USMOS"
+ DLC_dlc062_TOOLTIP_DELAYED:0 "- 32Íy‰^—ýV¶R„v°euQ!jÿSìbŒ‚S0aSHYÆY-ZSSªRŒTlšÌ‘"
+ DLC_dlc063_TOOLTIP_INSTANT:0 "Dd?eKNLk"
+ DLC_dlc063_TOOLTIP_DELAYED:0 "- HN0ºNCg0ibUSSÆQY„vÛVagìr`Só—h"
+ DLC_dlc064_TOOLTIP_INSTANT:0 "Fredman's Epistles"
+ DLC_dlc064_TOOLTIP_DELAYED:0 "- 15agnbo¯e*X„v³uôušNýV¶Röe„vó—h"
+ DLC_dlc065_TOOLTIP_INSTANT:0 "Fredman's Midsummer Epistles"
+ DLC_dlc065_TOOLTIP_DELAYED:0 "- 15agnbo¯e*X„v³uôušNýV¶Röe„vó—h"
+ DLC_dlc066_TOOLTIP_INSTANT:0 ")Y‹T"
+ DLC_dlc066_TOOLTIP_DELAYED:0 "- †SòSöeãNNÄžÑ‘öeg\n- ibUS†N-NNS^ýVHg6R\n- -NNS^ýVïSåNHVë»ýVg!\n- °e„vU^œ^Hg6R\n- án2m›Q–ïSåNÄuÇukQ×e"
+ DLC_dlc067_TOOLTIP_INSTANT:0 "'YTUSMOS"
+ DLC_dlc067_TOOLTIP_DELAYED:0 "- 12Íy°e„våe,g'YT1µuuQ!jÿSìbO¾0ÊNÝTŒTNIg"
+ DLC_dlc068_TOOLTIP_INSTANT:0 "šN2mIN‰ýV¶RUSMOS"
+ DLC_dlc068_TOOLTIP_DELAYED:0 "- 16Íyåe,g0gœœ0fŒTn„v°eUSMO!j‹W"
+ DLC_dlc069_TOOLTIP_INSTANT:0 "S¹eUSMOS"
+ DLC_dlc069_TOOLTIP_DELAYED:0 "- 16ÍyßRTðS0án2m0™„äSŒTætLR„v°eèK„›QUSMO!j‹W"
+ DLC_dlc070_TOOLTIP_INSTANT:1 "®puQS"
+ DLC_dlc070_TOOLTIP_DELAYED:0 "- 8Íy‰'k0N'k0Fz¯e—g0pS¦^0^—2m0šN2måNÊSWSSŽ‡eS„v°e®puQ!j‹W"
+ DLC_dlc071_TOOLTIP_INSTANT:2 "šN2mwm›QUSMOS"
+ DLC_dlc071_TOOLTIP_DELAYED:0 "- 22ÍyšN2mýV¶R„v°e9‚êS!j‹WÿSìbåe,gNgœœìr	g„v4Íy"
+ DLC_dlc072_TOOLTIP_INSTANT:0 ",r	NWlš"
+ DLC_dlc072_TOOLTIP_DELAYED:0 "- ™l‡výV & ÄOW¯e²N‹sýV\n- 1WÏP\n- ýINYe\n- ÄOW¯eø‹ýV„vyrŠkSûQ›QUSMO\n- ‰=O)RšNÓbRƒHS\n- °e„vÄOW¯eûN¡R"
+ DLC_dlc073_TOOLTIP_INSTANT:0 "W¯eø‹lQýVUSMOS"
+ DLC_dlc073_TOOLTIP_DELAYED:0 "- 16Íy(uŽNeYY6w+Y0h^0yrôuSÊSÅ–W¯eÉb+YS„v°eUSMO!j‹W"
+ DLC_dlc074_TOOLTIP_INSTANT:0 "ÄOW¯e¹ƒXUSMOS"
+ DLC_dlc074_TOOLTIP_DELAYED:0 "- 16ÍyŽUqS0Ëzv–›R0|VSÆYåNÊSnf¯eÑy+Y„v°eUSMO!j‹W"
+ DLC_dlc075_TOOLTIP_INSTANT:0 "ÄOW¯eGPó`†SòSUSMOS"
+ DLC_dlc075_TOOLTIP_DELAYED:0 "- 16ÍyNú‹+YåTW·V0âlm(ƒKQ0œ^X<SšNÿåNÊS¯eidñh¯eKQ„v°eUSMO!j‹W"
+ DLC_dlc076_TOOLTIP_INSTANT:0 "W¯eÉ‰’‘"
+ DLC_dlc076_TOOLTIP_DELAYED:0 "- W¯eIN˜˜„v	Nagó—h"
+ DLC_dlc077_TOOLTIP_INSTANT:0 "‡ef„vGdîr"
+ DLC_dlc077_TOOLTIP_DELAYED:0 "- °e„v-NNyrŠk?eSO\n- 8f?eVr\n- O¯epQfR>m\n- F–›QLwN¦^\n- eRJRÑSUS¦^"
+ DLC_dlc078_TOOLTIP_INSTANT:0 "JS›SUSMOS"
+ DLC_dlc078_TOOLTIP_DELAYED:0 "- 16ÍyIl×V0…Q×V0?–üfÿåNÊSmNè•„v°eUSMO!j‹W"
+ DLC_dlc079_TOOLTIP_INSTANT:0 "âl¯eUSMOS"
+ DLC_dlc079_TOOLTIP_DELAYED:0 "- 16Íy?–ÌRWl0âl¯e0TXôTÌ‘¯efWÿåNÊS“^S·VýV¶R„v°eUSMO!j‹W"
+ DLC_dlc080_TOOLTIP_INSTANT:0 "2N³lUSMOS"
+ DLC_dlc080_TOOLTIP_DELAYED:0 "- 16Íy‹vŠ0ÈT(„0ÑžŠÿåNÊS‚ÈS„v°eUSMO!j‹W"
+ DLC_dlc081_TOOLTIP_INSTANT:0 "eY¯eüfÎ˜PNòf"
+ DLC_dlc081_TOOLTIP_DELAYED:0 "HNFz¯e—gýV¶RÆQY„v	Nag°eó—h"
+ DLC_dlc082_TOOLTIP_INSTANT:1 "OgŒ˜î•S"
+ DLC_dlc082_TOOLTIP_DELAYED:0 "42Íyâl¯e°eŒ˜î•IuÏP"
+ DLC_dlc083_TOOLTIP_INSTANT:0 "Fz¯e—gsY'`S"
+ DLC_dlc083_TOOLTIP_DELAYED:0 "- 21ÍyFz¯e—g‡eS„vsY'`Œ˜î•IuÏP"
+ DLC_dlc084_TOOLTIP_INSTANT:0 "ßu»l'TÿNR ˜<SšN"
+ DLC_dlc084_TOOLTIP_DELAYED:0 "- °e„vNR ˜ûN¡R\n- åTNi—‹T\n- R°e¦^\n- 1WlQ—R\n- wm›QfRô‹\n- `noR«N"
+ DLC_dlc085_TOOLTIP_INSTANT:0 "‰1rSpQUSMOS"
+ DLC_dlc085_TOOLTIP_DELAYED:0 "- 11ÍyKQpQÌ‘aS·V0·V¯e™„·V0¯e±ƒbÿåNÊSXb™„·V„v°eUSMO!j‹W"
+ DLC_dlc086_TOOLTIP_INSTANT:0 "N1rSpQUSMOS"
+ DLC_dlc086_TOOLTIP_DELAYED:0 "- 12ÍyúWSãNS0&O¯eyr0ðl†–ÿåNÊSLNS¯eyr„v°eUSMO!j‹W"
+ DLC_dlc087_TOOLTIP_INSTANT:0 "NR ˜ýV¶RUSMOS"
+ DLC_dlc087_TOOLTIP_DELAYED:0 "- 14Íy^RTX<S01rSpQ0Ï‚<hpQÿåNÊSZSëX„v°eUSMO!j‹W"
+ DLC_dlc088_TOOLTIP_INSTANT:0 "NR ˜ÛS›QUSMOS"
+ DLC_dlc088_TOOLTIP_DELAYED:0 "- 16Íy·^ƒlS0s|¯e0ú‹üf•^ÿåNÊSú‹îh=OpQ„v°eUSMO!j‹W"
+ DLC_dlc089_TOOLTIP_INSTANT:0 "ßu»l'TÿNR ˜<SšNó—PNS"
+ DLC_dlc089_TOOLTIP_DELAYED:0 "- HNNR ˜ýV¶RÆQY„v	Nag°eó—h"
+ DLC_dlc090_TOOLTIP_INSTANT:0 "¾id"
+ DLC_dlc090_TOOLTIP_DELAYED:0 "- ?eœ^9ei—\n- žXHV„v?eVrû|ßu\n- 8flQøS•bD\n- °e„vpS¦^ûN¡Rh&6–BS\n- yr¸‹8flQøS\n- GSµu8f-NÃV"
+ DLC_dlc091_TOOLTIP_INSTANT:0 "pS¦^USMOS"
+ DLC_dlc091_TOOLTIP_DELAYED:0 "- 20ÍyˆQæt³u0…hætS0<SÊlS0eYÌ‘(„åNÊSWSpS¦^SýV„vhQ°eUSMO!j‹W"
+ DLC_dlc092_TOOLTIP_INSTANT:0 " pS¦^Ï‚9NýVUSMOS"
+ DLC_dlc092_TOOLTIP_DELAYED:0 "- 20ÍyôTküf<S0äS	TÉbyr0àznfS0idJFZÿåNÊS«ƒgS?Q„v°eUSMO!j‹W"
+ DLC_dlc093_TOOLTIP_INSTANT:1 "¾idŒ˜î•–wÏPS"
+ DLC_dlc093_TOOLTIP_DELAYED:0 "- °e„v42ÍypS¦^ýV¶RNpS¦^‡eS„v7u'`ÊSsY'`Œ˜î•IuÏP"
+ DLC_dlc094_TOOLTIP_INSTANT:0 "¾idó—PNS"
+ DLC_dlc094_TOOLTIP_DELAYED:0 "- HN(WpS¦^ŒTpS¦^hT¹„v©s¶RÆQY„v	Nag°eó—h"
+ DLC_dlc095_TOOLTIP_INSTANT:0 "ÄžÑ‘Nªu"
+ DLC_dlc095_TOOLTIP_DELAYED:0 "- qšSpeÏe²\n- ¾‹Ëz—RYeîOO\n- OÔk)RšN&S^—„v°eûN¡Rh\n- wm×vqQŒTýV\n- ×e0‚\n- wmN®pûQ"
+ DLC_dlc096_TOOLTIP_INSTANT:0 "OÔk)RšNwm›QUSMOS"
+ DLC_dlc096_TOOLTIP_DELAYED:0 "- 17ÍyOÔk)RšNýV¶R„v°e9‚êS!j‹W"
+ DLC_dlc097_TOOLTIP_INSTANT:0 "ÏgÏgSwm›QUSMOS"
+ DLC_dlc097_TOOLTIP_DELAYED:0 "- 17ÍyÏgÏgSbS^—ýV¶R„v°e9‚êS!j‹W"
+ DLC_dlc098_TOOLTIP_INSTANT:0 "OÔk)RšNF–›QUSMOS"
+ DLC_dlc098_TOOLTIP_DELAYED:0 "- 20Íy R)R‰šN0<hÉb³u¾0³uætÉbŒTwm×výV¶R„vUSMO!j‹W"
+ DLC_dlc099_TOOLTIP_INSTANT:0 "ÄžÑ‘Nªuó—PNS"
+ DLC_dlc099_TOOLTIP_DELAYED:0 "- HNOÔk)RšNýV¶RŒTwm×výV¶RÆQY„v	Nag°eó—h"
+ MAPMODE_EXPANSION:0 "DEBUG: ¨cPƒibUSS"
+ MAPMODE_CONTENT:0 "DEBUG: ¨cPƒ…Q¹RS"
+ MAPMODE_UNIT:0 "DEBUG: ¨cPƒUSMOS"
+ MAPMODE_MUSIC:0 "DEBUG: ¨cPƒó—PNS"
+ RED_QUEEN_DLC_OWNED:0 "§YòTåb	g§!"
+ RED_QUEEN_DLC_FREE:0 "§YMQ9§!"
+ RED_QUEEN_DLC_ENABLED:0 "§YòT=T(u§!"
+ RED_QUEEN_DLC_ENABLED_BY_HOST:0 "§YINHgòT=T(u§!"
+ RED_QUEEN_DLC_DISABLED:0 "§R*g=T(u§!"
+ RED_QUEEN_DLC_DISABLED_BY_HOST:0 "§RINHg*g=T(u§!"
+ RED_QUEEN_DLC_NOT_OWNED:0 "§R*gåb	g§!"
+ VIEW_ON_STORE:0 "(WFU—^-Någw"
+ LANDING_INTERESTING_NATION:0 "(W$DLC|Y$-N$TAG|Y$=fN*N	g±„v	éb"
+ LANDING_dlc010_TEXT:0 "IN‰yr¹pÿ\n- –Hg°eNLu\n- ú^ËzÊSnbo–kl†˜\n- HNŽ2mŸSOOlÐc›O°eHg6R"
+ LANDING_dlc010_FLAVOR_TEXT:2 "Send forth ships to explore the unknown, and discover a New World - perhaps a very new one, a completely randomized American continent.\n\nConquest of Paradise also offers the possibility to play as a Native American nation and master the federation mechanics and national ideas that are unique for the nations.\nFor colonizers, there is now the option to play as a colonial nation, and directly control the destiny of settlers setting forth in the New World."
+ LANDING_dlc018_TEXT:0 "IN‰yr'`ÿ\n- Çô•ŒKbµk6R.8f²Qz\n- Áy c\n- 8f,gàW\n- 8flQøS\n\nD– Ryr'`ÿ\n- 9e„U†N…QF–8f\n- pS¦^YeTINïSåN	éb*NºNáOðN„v^yGy\n- ú^.Ð³l"
+ LANDING_dlc018_FLAVOR_TEXT:2 "ýVÌRº‹DLCZw&qŽN8fÿåNÊS©‹NLu„v0ÌRAmeQ`O„vÑ‘“^0\n\nÙ*Nib.VSO`OýwYØyÆR0W6R.8f²Qzÿ)R(uÁy c9‚ÎNÞz‰NùRKbYƒzÖS8fÿ)R(uŒTs^ag¦ueg·ƒ—V8fyrCgÿåNÊSÁûy8f,gàWeg RHV`OùR8f„vŒcác0\n	g†N`O°e·ƒ—V„v0ÌRÿ`O°s(WïSåNŠbèT˜0?e¨PY•bD0RO'Y„vy˜îvNÿÔk‚YúWSÐ³l0Ï‚OëXÐ³lŒTôTÿblšÐ³l0"
+ LANDING_dlc021_TEXT:1 "Main Features:\n- Republican Dictatorships\n- New factions for Merchant Republics\n- Special elections for Dutch Republics\n\nAdditional Features:\n- New actions for and against Elective Monarchies\n- Merchant Republics can place trading posts\n- New events for republics"
+ LANDING_dlc021_FLAVOR_TEXT:2 "Res Publica focuses on new and unique ways to rule over your populace and govern your nation.\n\nFeaturing the introduction of a new government type, this expansion also offers new idea groups to explore as well as new gameplay elements for Republics and Dictatorship. Res Publica elevates the art of governance and exploration by allowing the player to experience new ways of receiving bonuses, whilst expanding on their trade empire."
+ LANDING_dlc027_TEXT:0 "IN‰yr'`ÿ\n- 30t^b‰NåNÊS—RYeTwßv„vìryrHg6R\n- HNi—‹Twbÿ¦Nb=fG•‹Si—‹T\n- zôVÿåNÊSS`S†˜HSûy²NÙub‰NßvËS\n- N.•GSµuNb	g0‚–\n- 9e„U„vY²N	y˜\n\n˜Yyr'`ÿ\n- HVLˆ›Q\n- >eV8hÃV"
+ LANDING_dlc027_FLAVOR_TEXT:2 "Centered on the 30 Years War and bubbling political instability between church and state, this expansion features improved gameplay mechanics that put warfare at the forefront of your quest for domination and triumph.\n\nImproved naval combat and full army control means the course of victory rests solely on your shoulders. Will you choose to triumph alone or rely on the combat strengths of your allies? Your decision will decide if your empire lasts through the ages."
+ LANDING_dlc033_TEXT:0 "Main Features:\n- Custom nation designer\n- New mechanics for the Nahuatl, Inti and Mayan religions\n- Hunt for the Seven Cities of Gold\n- Gold Fleets\n- Hunt for pirates with trade fleets\n- Treaty of Tordesillas"
+ LANDING_dlc033_FLAVOR_TEXT:1 "Create a realm that perfectly fits your playstyle with the new Nation Designer, which allows the customization of a starting nation in a campaign and further enhances EU4s already near infinite replayability.\n\nThis expansions focus on Central America and South America introduces new religions whilst impactful theaters of exploration will challenge you with new decisions worthy of a king or conqueror. As the Aztecs, subject the Mexican plain to your rule but be sure to have enough vassal kings to sacrifice to your angry gods. As the Europeans, push deeper into the jungles of the Amazon, following rumors of lost cities and magical fountains."
+ LANDING_dlc039_TEXT:0 "Main Features:\n- Parliaments\n- New gameplay for Protestants and Buddhists\n- New subject interactions\n\nAdditional Features:\n- Devotion\n- Free Cities of the HRE"
+ LANDING_dlc039_FLAVOR_TEXT:1 "Common Sense focuses on diplomacy and the internal development of nations. This addition allows you to peacefully develop your nation and build a 'tall' empire, whilst also giving you the tools to execute grand diplomacy. Game changing religious features add depth and intriguing complexity to the gameplay.\n\nThe ability to work closely with your subjects and better control them through interactions and decrees should make common sense for anyone with designs to get to terms with the internal struggles of constitutional monarchies."
+ LANDING_dlc046_TEXT:0 "Main Features:\n- New estates\n- Diplomatic Feedback\n- Tengri Syncretism\n- New horde mechanics\n- Native Policies\n\nAdditional Features:\n- Advanced culture change\n- Improved espionage"
+ LANDING_dlc046_FLAVOR_TEXT:1 "The Cossacks focuses on Hordes and Eastern Europe. This addition allows you to plunder your neighbors as a horde in order to keep your tribes loyal and raze their lands to gain power to advance in technology or reform into a settled nation.\n\nThe internal politics of nations is brought to life with the Estates, representing powerful interests such as the Magnates of Poland-Lithuania and the eponymous Cossacks of the steppe. More detailed control over the cultures and natives living in your nation and the ability to work more closely with your AI allies and understand their goals will let you bring out your inner Peter the Great."
+ LANDING_dlc055_TEXT:0 "Main Features:\n- Advanced naval missions\n- Barbary Pirates\n- Condottieri\n- Map sharing\n\nAdditional Features:\n- Trade Leagues\n- New espionage actions\n- Timeline replay\n- Counterespionage"
+ LANDING_dlc055_FLAVOR_TEXT:1 "With Mare Nostrum, Europa Universalis IV turns its attention to the sea. This expansion provides even more naval and military tools for players, as you navigate your nation through the early modern world.\n\nAs its name suggests, Mare Nostrum introduces new systems connected to naval warfare and control of trade. The power of your fleets will depend on the number of sailors your nation can gather, and your ships can now be given missions and areas to patrol. There are also new options for creating trade leagues, and a host of other improvements."
+ LANDING_dlc060_TEXT:1 "Main Features:\n- Great Powers\n- Monarch personalities & leader traits\n- Consorts & Regents\n- Subject nations can be given specific wartime behaviors\n- Fetishist nations unlock cults\n- Coptic nations unlock holy sites\n\nAdditional Features:\n- New faction system for Revolutionary Republics\n- Unique government for the Ottoman Empire\n- Abdication\n- Currency Debasement"
+ LANDING_dlc060_FLAVOR_TEXT:2 "Rights of Man adds greater depth to Europa Universalis IV with new features, including Great Power mechanics, a personality system for rulers and consorts, and unique governments and factions for established nations.\n\nThe Great Power mechanic grants the most developed nations access to new diplomatic options to bully or entice weaker neighbors. Keep that development going, or lose the powers that you paid a high price for!"
+ LANDING_dlc066_TEXT:0 "Main Features:\n- Historical Ages & Golden Eras\n- New Chinese Empire mechanics\n- Tributaries\n- New Japanese Shogunate mechanics\n- Manchu Banners\n- Diplomatic Macrobuilder"
+ LANDING_dlc066_FLAVOR_TEXT:1 "While Europe slowly pulls itself from a period of darkness, the East continues to shine brightly. The Ming throne rules a rich and venerable land, while Japanese warlords do battle in honorable array. The gods have blessed Asia with wealth and culture. Are you worthy of the Mandate of Heaven?\n\nHistorical Ages and Golden Eras bring new distinctions to the march of time, offering different challenges to players to overcome and different bonuses to enjoy through the centuries.\n\nThe Chinese Empire now wields powerful new mechanics, but be careful- if the emperor's Mandate falls too far, surrounding powers can claim the Mandate of Heaven for themselves and seize control of China as emperors in their own right!"
+ LANDING_dlc072_TEXT:0 "Main Features:\n- Tsardoms and Principalities\n- Iconography\n- Metropolitans\n- Streltsy\n- Siberian Frontier"
+ LANDING_dlc072_FLAVOR_TEXT:1 "Third Rome is the first immersion pack for Europa Universalis IV, focusing on building a deeper experience for Russia and its cultural and regional brothers, introducing new means to wield spiritual, political, and military control in the Russian empire.\n\nNavigate new interactions with the Orthodox Metropolitans to convert piety into political power, expand the power of the state with new government ranks, levy powerful new military units and colonize the Siberian frontier as you aspire to claim your seat as Tsar."
+ LANDING_dlc077_TEXT:0 "Main Features:\n- Special government types for Middle Eastern nations\n- Trade policies\n- Islamic Schools\n- Army Professionalism\n- Exploit Development\n- Iqta Taxes\n\nAdditional Features:\n- Janissaries\n- Missionary Actions"
+ LANDING_dlc077_FLAVOR_TEXT:1 "The fertile valleys and trade routes of the Middle East have attracted ambitious conquerors since the beginning of recorded history. Now, as the Middle Ages fade away, a new generation of powers have emerged in those ancient lands.\n\nWith new decisions and opportunities tied to the historical development of the region in the early modern era, Cradle of Civilization enhances the experience of playing in the Middle East while still providing a bounty of new mechanics for countries everywhere on the map."
+ LANDING_dlc084_TEXT:0 "Main Features:\n- New British Missions\n- Industrial Revolution\n- Anglicanism\n- Innovativeness\n- Naval Doctrine\n- Knowledge Sharing"
+ LANDING_dlc084_FLAVOR_TEXT:1 "Weakened by wars on the continent, with a feeble monarch and rapacious nobles, England in the mid-15th century had no inkling of the glories to come. It would be a difficult path, through civil wars, religious upheaval, great fires and awkward unions. But the nation that would become Great Britain would rule a trade empire that spanned the globe, exporting ideals of English freedom - both of thought and trade - while making itself the most powerful nation the world had yet seen.\n\nRule Britannia is an immersion pack focusing on the history of the British Isles and the early sparks of the Industrial Revolution. Take control of England, Scotland, or one of the Irish kingdoms and lead them to greatness!"
+ LANDING_dlc090_TEXT:0 "Main Features:\n- Government reforms\n- Trade Company Investments\n- New Indian missions and estates\n- Charter Companies\n\nAdditional Features:\n- Reworked policy system\n- Moonsons\n- New insult system\nNew uses for colonists"
+ LANDING_dlc090_FLAVOR_TEXT:1 "A region rich in history and culture promises great material riches to the empire that can control its trade. The competition for territory and access to the wealth of India requires diplomatic tact and some military muscle. But who is exploiting whom in this great game in the worlds most profitable markets?\n\nDharma provides a new way to define a government, though the introduction of Government Reforms. Different combinations of Reforms produce different governments- a kingdom could choose to empower the clergy and centralize the state, or cede power to a parliament and curtail the nobility.\n\nHow to rule and how to extend your rule- the choices are yours to make with Dharma."
+ LANDING_dlc095_TEXT:0 "Main Features:\n- New mission trees for Iberian & North African nations\n- Minority Expulsion\n- Establish Holy Orders\n- Pirate Republics\n- Flagships\n- Naval Barrage"
+ LANDING_dlc095_FLAVOR_TEXT:1 "Columbus might not have been the first, but he was the most important. His voyages to the New World were quickly exploited by an ascendant Spanish Crown, leading that great Catholic kingdom to over a century of dominance at the center of European politics. The gold of the Aztecs and silver of Peru laid the foundations of a global empire that stretched from Mexico to Madrid to Manila. Relive those days of empire-building, from the Reconquista to the treasure fleets!"
+ LANDING_dlc001_TEXT:0 "Main Features:\n- Unique tier 1 unit models for 11 countries in France and Britain"
+ LANDING_dlc001_FLAVOR_TEXT:0 "This pack enhances the Hundred Years War experience by adding new models for countries in France and Britain."
+ LANDING_dlc002_TEXT:0 "IN‰yr'`ÿ\n- eY¯eüfÿâl¯eŒTlšFzœKQ„vìryr‘šuQ!j‹W"
+ LANDING_dlc002_FLAVOR_TEXT:0 "This unit pack adds unique equestrian flavor to the Ottoman Empire, Persia, and the Mamluks."
+ LANDING_dlc003_TEXT:0 "Main Features:\n- Unique cavalry models for Lithuania, Poland, and Russia"
+ LANDING_dlc003_FLAVOR_TEXT:0 "This unit pack adds unique equestrian flavor for Lithuania, Poland, and Russia."
+ LANDING_dlc004_TEXT:0 "IN‰yr'`ÿ\n- 28*N°e‹NöN\n- 64*NIN˜˜‹NöNþVGr\n- 3*N°e³Q®‹"
+ LANDING_dlc004_FLAVOR_TEXT:0 "Ù*NS‹WibEQSýwYÐc›Oìryr„v‹NöNŒT³Q®‹egÐcGSnboFz¯e—gýV¶R„vSOŒš0"
+ LANDING_dlc005_TEXT:0 "Main Features:\n- 57 new events\n- 10 themed event pictures\n- New tier 3 and 4 unit models for the United States"
+ LANDING_dlc005_FLAVOR_TEXT:0 "This flavor pack brings more content and spirit to the USA, offering dynamic new events and unique unit models for this great nation."
+ LANDING_dlc006_TEXT:0 "Main Features:\n- 16 new events\n- 16 new missions\n- 13 themed event pictures\n- 4 new unit models for Byzantium"
+ LANDING_dlc006_FLAVOR_TEXT:0 "This flavor pack focuses on Byzantium, providing more flavor to enhance the experience of playing and revitalizing the Byzantine Empire."
+ LANDING_dlc007_TEXT:0 "Main Features:\n- 8 new landmarks visible in terrain mapmode"
+ LANDING_dlc007_FLAVOR_TEXT:0 "This pack adds new landmarks to the map, enhancing the game experience by providing a greater variety of features to the game's map."
+ LANDING_dlc008_TEXT:0 "Main Features:\n- 3 new tracks for Byzantium and the Ottomans"
+ LANDING_dlc008_FLAVOR_TEXT:0 "Conquest of Constantinople contains three new songs, totaling 10 minutes, composed by Andreas Waldetoft. These songs run while playing as Byzantium or the Ottomans to enhance the atmosphere of the game. Each track provides a unique experience for those playing in the contested lands of the Byzantines."
+ LANDING_dlc009_TEXT:0 "Main Features:\n- 11 new landmarks visible in terrain mapmode"
+ LANDING_dlc009_FLAVOR_TEXT:0 "This pack adds new landmarks to the map, enhancing the game experience by providing a greater variety of features to the game's map."
+ LANDING_dlc011_TEXT:0 "Main Features:\n- 16 new unit models for the Spanish and Portuguese in the New World"
+ LANDING_dlc011_FLAVOR_TEXT:0 "Enhance your Europa Universalis IV experience with the Conquistadors Unit Pack. This pack adds new unit models for Iberian units stationed in the New World."
+ LANDING_dlc012_TEXT:0 "Main Features:\n- 8 new unit models for Native American nations, including Cherokee, Iroquois and Sioux"
+ LANDING_dlc012_FLAVOR_TEXT:0 "This pack adds unique unit graphics for several North American native nations."
+ LANDING_dlc013_TEXT:0 "Main Features:\n- 3 new tracks for Native Americans and nations with overseas provinces"
+ LANDING_dlc013_FLAVOR_TEXT:1 "This music pack contains 3 tracks composed by Andreas Waldetoft for nearly 11 minutes of additional music, meant to enhance the New World experience."
+ LANDING_dlc014_TEXT:0 "Main Features:\n- 1 special track that plays during the month of December to add some festive cheer"
+ LANDING_dlc014_FLAVOR_TEXT:0 "This music pack provides one special track composed by Andreas Waldetoft, based on 'Deck the Halls' and 'Joy to the World'."
+ LANDING_dlc015_TEXT:0 "Main Features:\n- 10 new unit models for Native American nations, including Fox, Navajo and Ojibwe"
+ LANDING_dlc015_FLAVOR_TEXT:0 "This unit pack adds new unit graphics for 10 Native American nations."
+ LANDING_dlc016_TEXT:0 "Main Features:\n- 16 new unit models which only appear in the New World for England and France"
+ LANDING_dlc016_FLAVOR_TEXT:0 "This unit pack includes new unit graphics for English and French units stationed in the New World."
+ LANDING_dlc017_TEXT:0 "Main Features:\n- 21 new advisor portraits added for Muslim countries"
+ LANDING_dlc017_FLAVOR_TEXT:0 "Enjoy an enhanced experience as a Muslim country with the Muslim Advisor Portraits pack. This pack adds 21 new advisor portraits to the game, adding to a distinctive look and feel for those playing as Muslim countries."
+ LANDING_dlc019_TEXT:0 "Main Features:\n- 12 new ship models for Muslim countries"
+ LANDING_dlc019_FLAVOR_TEXT:0 "These ships will enhance the visual appeal of Europa Universalis IV."
+ LANDING_dlc020_TEXT:0 "Main Features:\n- 16 new unit models for Aragon, Genoa, Lübeck, and Novgorod"
+ LANDING_dlc020_FLAVOR_TEXT:0 "Enhance your Europa Universalis IV experience with the Trade Nations Unit Pack. This content pack adds unique unit graphics for Aragon, Genoa, Lübeck, and Novgorod."
+ LANDING_dlc024_TEXT:0 "Main Features:\n- 12 new unit models for Bengal, Vijayanagar, and for Hindu and Muslim nations in India"
+ LANDING_dlc024_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with unique unit models for nations in India, including Bengal and Vijayanagar."
+ LANDING_dlc025_TEXT:0 "Main Features:\n- 12 new ship models for Indian nations"
+ LANDING_dlc025_FLAVOR_TEXT:0 "These ships will enhance the visual appeal of Europa Universalis IV."
+ LANDING_dlc026_TEXT:0 "Main Features:\n- 5 new tracks"
+ LANDING_dlc026_FLAVOR_TEXT:0 "We have recorded new sessions with an orchestra, and this Music Pack now adds that music to enhance the Europa Universalis IV soundtrack.\n\nThe new tracks, totaling about 26 minutes of music masterfully composed by Andreas Waldetoft, are partly remixes from EU2, and partly new and original works."
+ LANDING_dlc028_TEXT:0 "Main Features:\n- 12 new tier 2 unit models for European states, including the Netherlands, France, England, and Hesse"
+ LANDING_dlc028_FLAVOR_TEXT:0 "This unit pack adds distinctive visual flavor to the European Reformation and Thirty Years War by adding unique unit models for Western and Central European states that were historically at the center of these conflicts."
+ LANDING_dlc029_TEXT:0 "Main Features:\n- 12 new tier 2 unit models for European states, including Spain, the Papal State, Austria, and Ulm"
+ LANDING_dlc029_FLAVOR_TEXT:0 "This unit pack adds distinctive visual flavor to the European Reformation and Thirty Years War by adding unique unit models for Western and Central European states that were historically at the center of these conflicts."
+ LANDING_dlc030_TEXT:0 "Main Features:\n- 5 tracks that play during wartime"
+ LANDING_dlc030_FLAVOR_TEXT:0 "We have recorded new sessions with an orchestra, and this Music Pack now adds that music to enhance the Europa Universalis IV soundtrack.\n\nThe new tracks, totaling about 29 minutes of music masterfully composed by Andreas Waldetoft, are partially remixes of EU2 tracks, and partially new and original."
+ LANDING_dlc031_TEXT:1 "Main Features:\n- 5 new tracks, including one metal remix of the intro theme and 4 tracks that will play during wartime"
+ LANDING_dlc031_FLAVOR_TEXT:0 "This music pack features tracks composed by Tobias Gustafsson, enhancing the game with metal remixes of some of the game's most prominent tracks."
+ LANDING_dlc034_TEXT:0 "Main Features:\n- 12 new unit models for South American and Andean natives, including Inca, Mapuche, and Tupinamba"
+ LANDING_dlc034_FLAVOR_TEXT:0 "This unit pack enhances the visual diversity of several South American native nations' units, including the Inca, Mapuche and Tupinamba."
+ LANDING_dlc035_TEXT:0 "Main Features:\n- 12 new unit models for Mesoamerican natives, including Aztec, Maya, and Mixtec"
+ LANDING_dlc035_FLAVOR_TEXT:0 "This unit pack adds unique unit models for several Mesoamerican native nations, including the Aztec, Maya and Mixtec."
+ LANDING_dlc036_TEXT:0 "Main Features:\n- 5 new tracks that play during peacetime while colonizing"
+ LANDING_dlc036_FLAVOR_TEXT:0 "This music pack adds five new songs, inspired by the Age of Exploration. These new songs will play during peacetime as colonies are established in the newly discovered lands."
+ LANDING_dlc037_TEXT:0 "Main Features:\n- 5 new metal remixes"
+ LANDING_dlc037_FLAVOR_TEXT:2 "Europa Universalis IV: Guns, Drums and Steel Volume 2 is the second installment of metal inspired remixes featuring music from the Europa Universalis franchise. This volume includes five remixed songs that up the tempo and crank up the bass.\n\nThe new metal tracks are based on music from Europa Universalis IV."
+ LANDING_dlc038_TEXT:1 "Main Features:\n- Focuses on important women throughout history, through the addition of:\n- 100 new historical and dynamic events\n- 4 themed event pictures\n- 22 generic female advisor portraits"
+ LANDING_dlc038_FLAVOR_TEXT:0 "Women in History enhances the historical feel of Europa Universalis IV by providing a variety of historical events and advisors to the game, encompassing all corners of the map and in all historical periods."
+ LANDING_dlc040_TEXT:0 "Main Features:\n- 16 new unit models for theocratic nations, including the Teutonic Order, the Papal State, and the Knights"
+ LANDING_dlc040_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with these unique unit models for theocratic nations."
+ LANDING_dlc041_TEXT:1 "Main Features:\n- 16 new unit models for certain Buddhist nations, including Kandy, Dai Viet, and Tibet"
+ LANDING_dlc041_FLAVOR_TEXT:1 "This unit pack enhances the Europa Universalis IV experience with new unit models for Buddhist nations such as Kandy, Dai Viet, and Tibet."
+ LANDING_dlc042_TEXT:0 "Main Features:\n- 17 new unit models for European and Eurasian nations, including England, the Netherlands, the Ottomans, and Russia"
+ LANDING_dlc042_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with new unit models for some of the historical great nations of the period."
+ LANDING_dlc043_TEXT:0 "Main Features:\n- 15 new unit models for Central European cities, including Frankfurt, Hamburg, and Ulm"
+ LANDING_dlc043_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with new unit models for some of the most prominent Free Cities of the Holy Roman Empire."
+ LANDING_dlc044_TEXT:0 "Main Features:\n- 5 new tracks composed by Kairi 'Blodeuyn' Sawler, inspired by Asian melodies"
+ LANDING_dlc044_FLAVOR_TEXT:2 "Taking inspiration from the rich tapestry of Europa Universalis, this music pack breaks new ground by being the first ever community-produced music pack for the award-winning franchise.\n\nComposed by avid Europa Universalis fan Kairi Sawler, this collection of songs is inspired by traditional East Asian melodies."
+ LANDING_dlc047_TEXT:0 "Main Features:\n- 32 new unit models for Circassia, Crimea, Theodoro, and Zaporozhie"
+ LANDING_dlc047_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with new unit models for four countries bordering the Black Sea."
+ LANDING_dlc048_TEXT:0 "Main Features:\n- 32 new unit models for Golden Horde, Nogai, Timurids, and Uzbek"
+ LANDING_dlc048_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with new unit models for four prominent realms on the Eurasian Steppe."
+ LANDING_dlc049_TEXT:0 "Main Features:\n- 12 new cavalry models for England, France, and Spain"
+ LANDING_dlc049_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with new cavalry models for some of the most prominent countries in Western Europe."
+ LANDING_dlc050_TEXT:0 "Main Features:\n- 18 new fort models for Western, Muslim, Asian, Indian, African, and South and North American cultures"
+ LANDING_dlc050_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with new models for all civilizations' fortifications."
+ LANDING_dlc052_TEXT:0 "Main Features:\n- 5 new tracks composed by Sabaton"
+ LANDING_dlc052_FLAVOR_TEXT:0 "When power projection meets power metal, every game of Europa Universalis IV feels like an epic in motion! The latest Music Pack adds five tracks from the Swedish power metal band Sabaton, with songs about the art of war and the never-ending battles of mankind. Hardcore historical music alongside the deepest historical simulator in the world-- it's a match made in Sweden!"
+ LANDING_dlc053_TEXT:0 "Main Features:\n- 9 new unit models for Austria, Poland, and Spain"
+ LANDING_dlc053_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with 9 more unique unit models for three countries: Austria, Spain, and Poland."
+ LANDING_dlc054_TEXT:0 "Main Features:\n- 8 new unit models for France, Prussia, and Sweden"
+ LANDING_dlc054_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with 8 more unique unit models for three countries: France, Prussia, and Sweden."
+ LANDING_dlc056_TEXT:0 "Main Features:\n- 16 new unit models for Florence, Milan, Naples, and Venice"
+ LANDING_dlc056_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with 16 more unique unit models for four countries: Florence, Milan, Naples, and Venice."
+ LANDING_dlc057_TEXT:0 "Main Features:\n- 16 new unit models for Ethiopia and for Nubian, Somali, and Swahili nations"
+ LANDING_dlc057_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with new unit models for countries in East Africa."
+ LANDING_dlc058_TEXT:0 "Main Features:\n- 16 new unit models for Algiers, Morocco, the Mamluks, and Tunis"
+ LANDING_dlc058_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with 16 new unit models for Algiers, Morocco, the Mamluks, and Tunis."
+ LANDING_dlc059_TEXT:0 "Main Features:\n- 5 tracks composed by Kairi 'Blodeuyn' Sawler, inspired by the regions of the Far East"
+ LANDING_dlc059_FLAVOR_TEXT:1 "Add new variety and inspiration to Europa Universalis IV with the second soundtrack composed by the avid Europa Universalis fan Kairi Sawler! Invoke the sounds of history with music inspired by the regions of the Far East, from the grasslands of the Khanate to the shores of the South Seas."
+ LANDING_dlc061_TEXT:0 "Main Features:\n- 24 new tier 1 and tier 3 unit models for German principalities, including Bavaria, Hanover, and Saxony"
+ LANDING_dlc061_FLAVOR_TEXT:1 "This unit pack enhances the Europa Universalis IV experience with 24 new tier 1 and tier 3 unit models for some of the great principalities of Central Europe."
+ LANDING_dlc062_TEXT:0 "Main Features:\n- 32 new unit models for West African nations including Air, Kanem Bornu, and Mali"
+ LANDING_dlc062_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with 32 new unit models for 8 West African countries."
+ LANDING_dlc063_TEXT:0 "Main Features:\n- 4 tracks unique for Rights of Man"
+ LANDING_dlc063_FLAVOR_TEXT:0 "The Songs of Regency music pack introduces four new songs unique to the Rights of Man experience. Composed by and produced by talented Yannick Süß and Robin Birner (Audinity)."
+ LANDING_dlc064_TEXT:0 "IN‰yr¹pÿ\n- 15agnbo¯e*X„v³uôušNýV¶Röe„vó—h"
+ LANDING_dlc064_FLAVOR_TEXT:2 "Play as a Scandinavian superpower and let the music of your people become the anthem of the world with this collection of traditional Swedish songs from the 18th Century.\n\n15 songs from Fredman's Epistles, composed by Swedish poet and songwriter Carl Michael Bellman, have been arranged by composer Tobias Gustavsson and performed by Mikael Samuelson, Swedish singer and actor."
+ LANDING_dlc065_TEXT:0 "IN‰yr¹pÿ\n- 15agnbo¯e*X„v³uôušNýV¶Röe„vó—h"
+ LANDING_dlc065_FLAVOR_TEXT:2 "Play as a Scandinavian superpower and let the music of your people become the anthem of the world with this collection of traditional Swedish songs from the 18th Century.\n\n15 songs from Fredman's Epistles, composed by Swedish poet and songwriter Carl Michael Bellman, have been arranged by composer Tobias Gustavsson and performed by Mikael Samuelson, Swedish singer and actor."
+ LANDING_dlc067_TEXT:0 "Main Features:\n- 12 new tier 1 unit models for Japanese daimyos, including Date, Imagawa, and Uesugi"
+ LANDING_dlc067_FLAVOR_TEXT:0 "The armies of the east get a shiny new look in the new Content Pack for Europa Universalis IV: Mandate of Heaven. Paradoxs artists have dipped into their history books for a fresh take on the uniforms and weaponry of China, Japan and their neighbors during the early modern era.\n\nThis unit pack adds 12 new tier 1 unit models for some of the great daimyo realms of Japan."
+ LANDING_dlc068_TEXT:0 "Main Features:\n- 16 new unit models for Japan, Korea, Ming and Qing"
+ LANDING_dlc068_FLAVOR_TEXT:0 "The armies of the east get a shiny new look in the new Content Pack for Europa Universalis IV: Mandate of Heaven. Paradoxs artists have dipped into their history books for a fresh take on the uniforms and weaponry of China, Japan and their neighbors during the early modern era.\n\nThis unit pack adds 16 new unit models for Japan, Korea, Ming, and Qing."
+ LANDING_dlc069_TEXT:0 "IN‰yr'`ÿ\n- 16ÍyßRTðS0án2m0™„äSŒTætLR„v°eèK„›QUSMO!j‹W"
+ LANDING_dlc069_FLAVOR_TEXT:0 "The armies of the east get a shiny new look in the new Content Pack for Europa Universalis IV: Mandate of Heaven. Paradoxs artists have dipped into their history books for a fresh take on the uniforms and weaponry of China, Japan and their neighbors during the early modern era.\n\nThis unit pack adds 16 new unit models for the great steppe nations of Chagatai, Manchu, Mongolia, and Oirat."
+ LANDING_dlc070_TEXT:0 "IN‰yr'`ÿ\n- 8Íy‰'k0N'k0Fz¯e—g0pS¦^0^—2m0šN2måNÊSWSSŽ‡eS„v°e®puQ!j‹W"
+ LANDING_dlc070_FLAVOR_TEXT:1 "Ù*NibUSSHNNb	gÑyŽbÄužX R°e„v®puQ!j‹W0"
+ LANDING_dlc071_TEXT:0 "IN‰yr'`ÿ\n- 22ÍyšN2mýV¶R„v°e9‚êS!j‹WÿSìbåe,gNgœœìr	g„v4Íy"
+ LANDING_dlc071_FLAVOR_TEXT:0 "Ù*NUSMOSýwYHNNšNýV¶Rÿyr+R=fåe,gŒTgœœÿžX Rìryr„v9‚êS!j‹WegÐcGS8nbSOŒš0"
+ LANDING_dlc073_TEXT:0 "IN‰yr'`ÿ\n- 16Íy(uŽNeYY6w+Y0h^0yrôuSÊSÅ–W¯eÉb+YS„v°eUSMO!j‹W"
+ LANDING_dlc073_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with unique unit models for Ryazan, Yaroslavl, Odoyev and Tver."
+ LANDING_dlc074_TEXT:0 "Main Features:\n- 16 new unit models for Kazan, Lithuania, Perm, and Pskov"
+ LANDING_dlc074_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with unique unit models for Perm, Kazan, Pskov and Lithuania."
+ LANDING_dlc075_TEXT:0 "Main Features:\n- 16 new unit models for Nizhny Novgorod, Polotsk, Ruthenia, and Smolensk"
+ LANDING_dlc075_FLAVOR_TEXT:0 "This unit pack enhances the Europa Universalis IV experience with unique unit models for the potential nations Polotsk, Smolensk, Ruthenia and Nizhny Novgorod."
+ LANDING_dlc076_TEXT:0 "Main Features:\n- 3 tracks of Russian-themed music"
+ LANDING_dlc076_FLAVOR_TEXT:0 "Immerse yourselves in ten minutes of Russian themed music written and composed by Yannick Suess & Robin Birner exclusively for Europa Universalis IV: Third Rome."
+ LANDING_dlc078_TEXT:0 "IN‰yr'`ÿ\n- 16ÍyIl×V0…Q×V0?–üfÿåNÊSmNè•„v°eUSMO!j‹W"
+ LANDING_dlc078_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with these 16 new unit models for the powers of the Arabian Peninsula: Hedjaz, Najd, Oman, and Yemen."
+ LANDING_dlc079_TEXT:0 "Main Features:\n- 16 new unit models for Afghanistan, Persia, Tabaresta, and Kurdish nations"
+ LANDING_dlc079_FLAVOR_TEXT:1 "Enhance the Europa Universalis IV experience with these 16 new military models for some of the major cultures of West and Central Asia: Persians, Afghans, Kurds, and Tabaristanis."
+ LANDING_dlc080_TEXT:0 "Main Features:\n- 16 new unit models for Aq Qoyunlu, Haasa, Qara Qoyunlu, and Shammar"
+ LANDING_dlc080_FLAVOR_TEXT:1 "Enhance the Europa Universalis IV experience with these 16 new military unit models for the powers of the Tigris and Euphrates: Aq Qoyunlu, Qara Qoyunlu, Haasa, and Shammar."
+ LANDING_dlc081_TEXT:0 "Main Features:\n- 5 tracks for Muslim nations"
+ LANDING_dlc081_FLAVOR_TEXT:0 "Enjoy these 5 new tracks for Muslim nations, composed by Kairi 'Blodeuyn' Sawler."
+ LANDING_dlc082_TEXT:0 "Main Features:\n- 42 new advisor portraits for Persian cultures"
+ LANDING_dlc082_FLAVOR_TEXT:1 "This advisor portrait pack adds 42 new advisor portraits - 21 for males and females each - for Persian cultures."
+ LANDING_dlc083_TEXT:0 "Main Features:\n- 21 female advisor portraits for Muslim cultures"
+ LANDING_dlc083_FLAVOR_TEXT:0 "This advisor portrait pack adds 21 new advisor portraits for Muslim women."
+ LANDING_dlc085_TEXT:0 "Main Features:\n- 11 new unit models for Clanricarde, Desmond, Sligo, and Thomond"
+ LANDING_dlc085_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 11 new unit models for the Irish realms of Clanricarde, Desmond, Sligo and Thomond."
+ LANDING_dlc086_TEXT:0 "Main Features:\n- 12 new unit models for Kildare, Leinster, Tyrone, and Ulster"
+ LANDING_dlc086_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 12 new unit models for the Irish realms of Kildare, Leinster, Tyrone, and Ulster."
+ LANDING_dlc087_TEXT:0 "Main Features:\n- 14 new unit models for Brittany, Ireland, Scotland, and Wales"
+ LANDING_dlc087_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 14 new unit models for the countries of Brittany, Ireland, Scotland, and Wales."
+ LANDING_dlc088_TEXT:0 "Main Features:\n- 16 new unit models for Cornwall, Meath, Normandy, and Northumberland"
+ LANDING_dlc088_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 16 new unit models for the countries of Cornwall, Meath, Normandy, and Northumberland."
+ LANDING_dlc089_TEXT:0 "Main Features:\n- 3 tracks for British nations"
+ LANDING_dlc089_FLAVOR_TEXT:0 "Enjoy three new tracks for British nations, composed by Yannick Süß and Robin Birner."
+ LANDING_dlc091_TEXT:0 "Main Features:\n- 20 new unit models for Gondwana, Mewar, Nepal, Orissa, and South Indian Minor Nations"
+ LANDING_dlc091_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 20 new unit models for Gondwana, Mewar, Nepal, Orissa, and South Indian minors."
+ LANDING_dlc092_TEXT:0 "Main Features:\n- 20 new unit models for Bahmanis, Gujarat, Jaunpur, Malwa, and the Mughals"
+ LANDING_dlc092_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 20 new unit models for Bahmanis, Gujarat, Jaunpur, Malwa, and the Mughals."
+ LANDING_dlc093_TEXT:0 "Main Features:\n- 42 new male and female advisor portraits for Indian nations and cultures"
+ LANDING_dlc093_FLAVOR_TEXT:1 "This portrait pack adds 42 new portraits - 21 male and 21 female - for Indian countries and cultures."
+ LANDING_dlc094_TEXT:0 "Main Features:\n- 3 tracks for playing in and around India"
+ LANDING_dlc094_FLAVOR_TEXT:0 "This music pack adds over ten minutes of new and original music, inspired by the sounds and music traditions of India, composed Yannick Süß and Robin Birner."
+ LANDING_dlc096_TEXT:0 "Main Features:\n- 17 new ship models for the Iberian nations"
+ LANDING_dlc096_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 17 new ship models for Iberian nations."
+ LANDING_dlc097_TEXT:0 "Main Features:\n- 17 new ship models for Berber & North African nations"
+ LANDING_dlc097_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 17 new ship models for Berber & North African nations."
+ LANDING_dlc098_TEXT:0 "Main Features:\n- 20 unit models for Galicia, Granada, Navarra, and the Pirate nations"
+ LANDING_dlc098_FLAVOR_TEXT:0 "Enhance the Europa Universalis IV experience with 20 new unit models for Galicia, Granada, Navarra, and the Pirate nations."
+ LANDING_dlc099_TEXT:0 "Main Features:\n- 3 tracks for Iberian and Pirate nations"
+ LANDING_dlc099_FLAVOR_TEXT:0 "Enjoy 3 tracks of original music inspired by the discovery of the New World."
+ dlcXXX_reason_has_stuff_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NýwÎN-N·ƒÖS°euQ!j„výV¶R0"
+ dlcXXX_reason_india_reason:1 "\nbìN¨cPƒdkDLCÿàVHN`O	éb†NN*NMOŽN§YpS¦^§!„výV¶R0"
+ dlcXXX_reason_muslim_reason:1 "\nbìN¨cPƒdkDLCÿàVHN`O	éb†NN*N§YFz¯e—g§!ýV¶R0"
+ dlcXXX_reason_generic_reason:1 "\nbìN¨cPƒdkibUSSÿàVHNƒRHN8nbžX R†N¸‹Y°e…Q¹R0"
+ dlc001_reason_hyw_participant:0 "The §YHundred Years War Unit Pack§! adds 11 new unit models for the participants of the Hundred Years War, including §YEngland§!, §YFrance§!, §YScotland§!, §YBurgundy§! and the French minors."
+ dlc001_reason_hyw_participant_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NÂSN§YŒvt^b‰N§!„výV¶R0"
+ dlc002_reason_muslim_of_the_crescent:0 "The §YHorsemen of the Crescent Unit Pack§! adds 12 new cavalry models for Middle Eastern nations, including the §YMamluks§!, the §YOttomans§! and §YPersia§!."
+ dlc003_reason_winged_hussars:0 "The §YWinged Hussars Unit Pack§! adds 12 new cavalry models for §YRussia§!, §YPoland§! and §YLithuania§!, three of the most influential Eastern European states in the Europa Universalis IV era."
+ dlc004_reason_muslim:1 "The §YStar and Crescent Content Pack§! adds 70 new event pictures and several new events and event chains for §YMuslim§! countries, adding to gameplay immersion."
+ dlc005_reason_god_bless:0 "The §YAmerican Dream Content Pack§! adds over 50 new events, 10 themed event pictures, and several new unit models to the §YUSA§!."
+ dlc005_reason_god_bless_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb†N§YŽýV§!0"
+ dlc005_reason_north_america_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHNƒRHN–klýV¶RžX R†N	g±„v°eyrr‚ÿw`OjOHNN*N§YSŽŸSOOl§!ˆVïSýwOG0RÙ›NýV¶R0"
+ dlc005_reason_tea_party_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb„výV¶RˆVïSýwOàVdk×S0R§Y>P6ƒ‹NöN§!„vqVÍT0"
+ dlc006_reason_purple_phoenix:0 "The §YPurple Phoenix Content Pack§! adds new events, themed event pictures and several new unit models to enhance the gameplay of the §YByzantine Empire§!."
+ dlc006_reason_purple_phoenix_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb†N§YÜb`S­^^ýV§!0"
+ dlc007_reason_well_what_am_I_meant_to_say:0 "The §YNational Monuments Content Pack§! adds 8 national monuments to the terrain graphic map, including the Tower of London, the Cologne Cathedral, Notre Dame, Mount Fuji and Angkor Wat."
+ dlc008_reason_correct_region:0 "The §YConquest of Constantinople Music Pack§! adds three new songs inspired by the Siege of Constantinople."
+ dlc008_reason_correct_region_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*NMOŽN§YÜb`S­^^ýV§!ŸÛvöegÃV0W&^„výV¶R0"
+ dlc009_reason_well_what_am_I_meant_to_say:0 "The §YNational Monuments II Content Pack§! adds 11 national monuments to the terrain graphic map, including the Hagia Sophia, Machu Picchu, the Parthenon and Tenochtitlan."
+ dlc009_reason_well_what_am_I_meant_to_say_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHNƒRHN`ONb	ýV¶RNb(W0WHSûm R†NN*NªuõV‘x0"
+ dlc010_reason_natives:0 "The §YConquest of Paradise Expansion§! adds new mechanics for §YNative Americans§!, including migration, special buildings, native reforms, federations and special casus belli."
+ dlc010_reason_natives_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YŽ2mŸSOOl§!ýV¶R0"
+ dlc010_reason_colonists:0 "The §YConquest of Paradise Expansion§! adds a generator for a §YRandom New World§! (activated at game start) and the ability to play as one's colonial nation."
+ dlc010_reason_colonists_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb„výV¶RTT§Y°e'YF–§!–kl0"
+ dlc011_reason_iberia:0 "The §YConquistadors Unit Pack§! adds 16 new models for §YSpanish§! and §YPortuguese§! armies fighting in the new world."
+ dlc012_reason_natives:0 "The §YNative Americans Unit Pack§! adds new unique unit models for eight §YNative American§! tribes."
+ dlc012_reason_natives_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YŽ2mŸSOOl§!ýV¶R0"
+ dlc013_reason:0 "The §YSongs of the New World Music Pack§! adds new songs inspired by the conquest and discovery of the §YNew World§!."
+ dlc013_reason_natives_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*NMOŽN§Y°e'YF–§!„výV¶R0"
+ dlc014_reason_generic:0 "The §YSongs of Yuletide Music Pack§! adds a Christmas carol to Europa Universalis' sound tracks."
+ dlc014_reason_december:1 "\nbìN¨cPƒdkó—PNSÿàVHN°s(W=f§YASŒNg§!N`O	éb†NN*N§Y'k2m§!ýV¶R0"
+ dlc015_reason_natives:0 "The §YNative Americans Unit Pack§! adds new unique unit models for ten §YNative American§! tribes."
+ dlc016_reason_gbrengfra:0 "The §YColonial British and French Unit Pack§! adds 16 new unique unit models for §YBritish§! and §YFrench§! colonial troops, giving them a new, more rugged look and enhancing the visual experience of playing Europa Universalis IV."
+ dlc016_reason_gbrengfra_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†N§Yñ‚<hpQ§!0§Y'YNR ˜§!b§YÕlpQ‰§!0"
+ dlc017_reason_muslim:1 "The §YMuslim Advisor Portraits Pack§! adds 21 new portraits for §YMuslim§! advisors."
+ dlc018_reason_generic:0 "The §YWealth of Nations Expansion§! adds several new mechanics, including Trade Companies, new covert diplomatic actions and the ability to hire privateers."
+ dlc018_reason_kiel_canal:0 "The §YWealth of Nations Expansion§! adds the ability to build the §YKiel Canal§!, as well as various diplomatic and trade actions and activities."
+ dlc018_reason_kiel_canal_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NVNSMOŽN§YúWS§!D–Ñ„výV¶R0"
+ dlc018_reason_suez_canal:0 "The §YWealth of Nations Expansion§! adds the ability to build the §YSuez Canal§!, as well as various diplomatic and trade actions and activities."
+ dlc018_reason_suez_canal_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YlšFzœKQ§!ÿå‹ýVVNSöe=f§YÏ‚OëX§!„våb	gw0"
+ dlc018_reason_hindu_deity:0 "The §YWealth of Nations Expansion§! adds the ability for Hindu nations to pick §YPersonal Deities§!, as well as various diplomatic and trade actions and activities."
+ dlc018_reason_hindu_deity_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YpS¦^Ye§!ýV¶R0"
+ dlc018_reason_reformed:0 "The §YWealth of Nations Expansion§! adds the ability for Reformed nations to spend §YFervor Points§! on military, diplomatic and trade bonuses, as well as various further diplomatic and trade features."
+ dlc018_reason_reformed_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y9ei——R§!ýV¶R0"
+ dlc018_reason_christian_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NïSåN§Y9eáO9ei——R§!„v)YINYeýV¶R0"
+ dlc019_reason_muslim:1 "The §YMuslim Ships Unit Pack§! adds 12 new unique ship models for §YMuslim§! nations."
+ dlc020_reason_traders:0 "The §YTrade Nations Unit Pack§! adds 16 new unique unit models for §YAragon§!, §YGenoa§!, §YNovgorod§! and §YLubeck§!."
+ dlc022_reason_republics:0 "The §YRes Publica Expansion§! adds new mechanics and flavor events for §YRepublics§!, including the ability to become a Dictatorship if Republican Tradition drops too low."
+ dlc022_reason_republics_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YqQŒTýV§!0"
+ dlc022_reason_going_dutch:0 "The §YRes Publica Expansion§! adds the "Statist vs Orangists" mechanic to the §YDutch Republic§!, giving it varying bonuses depending on the balance of power."
+ dlc022_reason_going_dutch_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Y<S·VpQ§!bN*NïSåNbËz§Y<S·VpQ§!„výV¶R0"
+ dlc022_reason_merchant_republic:0 "The §YRes Publica Expansion§! adds new mechanics and flavor events for §YMerchant Republics§!, including a new faction system."
+ dlc022_reason_merchant_republic_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YFUNqQŒTýV§!0"
+ dlc022_reason_elective_monarchy:0 "The §YRes Publica Expansion§! adds new mechanics, flavor events and diplomatic interactions for §YElective Monarchies§!."
+ dlc022_reason_elective_monarchy_pol_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NâlpQÿå‹ýVïSåNbHNN*N§Y	>NTIN6R§!ýV¶R0"
+ dlc022_reason_elective_monarchy_gen_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y	>NTIN6R§!ýV¶R0"
+ dlc024_reason_india:0 "The §YIndian Subcontinent Unit Pack§! adds new unit models and textures for §YVijaynagar§!, §YBengal§!, and other major powers in §YIndia§!."
+ dlc024_reason_india_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§YpS¦^§!„výV¶R0"
+ dlc025_reason_india:0 "§YpS¦^wm›QUSMOS§!HN§YpS¦^§!ýV¶RžX R†N12Íy°e„vìr	g9‚êS!j‹W0"
+ dlc025_reason_india_without_port_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§YpS¦^§!„výV¶R0"
+ dlc025_reason_india_with_port_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§YpS¦^§!Nåb	gúQwmãS„výV¶R0"
+ dlc026_reason_republic:0 "The §YRepublican Music Pack§! adds 26 minutes of music inspired by the trials and tribulations of politics in §YEurope§!'s historical republics."
+ dlc026_reason_republic_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*NVNSHN§YqQŒTýV§!„výV¶R0"
+ dlc027_reason_generic:0 "The §YArt of War Expansion§! adds special mechanics and events for the Thirty Years War and Napoleonic Wars that ravaged much of §YEurope§! as well as further diplomatic options and further gameplay enhancements."
+ dlc027_reason_generic_europe_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Y'k2m§!„výV¶Rÿ	NASt^b‰NŒTÿb4xÑNb‰NÑSuŽNå‹'Y2m0"
+ dlc027_reason_french_revolution:0 "The §YArt of War Expansion§! adds the Revolutionary Target feature to simulate the Napoleonic Wars, as well as the Thirty Years War that ravaged much of Europe, and further diplomatic options and further gameplay enhancements."
+ dlc027_reason_french_revolution_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YÕlpQ‰§!i—‹T„vÑSn0W0"
+ dlc027_reason_hre:0 "The §YArt of War Expansion§! adds religious leagues that can fight the Thirty Years War to determine the official faith of the §YHoly Roman Empire§!, as well as special mechanics and events for the Napoleonic Wars, and further diplomatic options and further gameplay enhancements."
+ dlc027_reason_hre_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Y^y1WWlš^ýV§!„výV¶Rÿ	NASt^b‰NÑSuŽNdk0W0"
+ dlc027_reason_sweden_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Y^txQ§!ÿå‹ýV=f	NASt^b‰N„vIN‰ÂSNw0"
+ dlc028_reason_member_of_evangelical_union:0 "The §YEvangelical Union Unit Pack§! adds 12 new unit models for the historical members of the §YEvangelical Union§! in the Thirty Years War."
+ dlc029_reason_member_of_catholic_league:1 "The §YCatholic League Unit Pack§! adds 12 new unit models for the historical members of the §YCatholic League§! in the Thirty Years War."
+ dlc030_reason_generic:0 "The §YSongs of War Music Pack§! adds five new songs - 29 minutes of music in total - inspired by warfare in the period covered by Europa Universalis."
+ dlc031_reason_generic:0 "The §YGuns, Drums and Steel Music Pack§! adds five new metal songs inspired by themes and events in the history covered by Europa Universalis."
+ dlc033_reason_aztec:0 "The §YEl Dorado Expansion§! adds the Doom and Religious Reform mechanics to the §YNahuatl§! religion, as well as the Flower Wars casus belli and many flavor events."
+ dlc033_reason_aztec_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NáOðN§Y³uætyrS^yÝ‹§!„výV¶R0"
+ dlc033_reason_maya:0 "The §YEl Dorado Expansion§! adds Religious Reform mechanics and flavor events to the §YMayan§! religion, as well as further features for both the natives and the colonists of the New World."
+ dlc033_reason_maya_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NáOðN§Y›sÅ–—RYe§!„výV¶R0"
+ dlc033_reason_inca:0 "The §YEl Dorado Expansion§! adds Religious Authority, Reforms and flavor events to the §YInti§! religion, as well as further features for both the natives and the colonists of the New World."
+ dlc033_reason_inca_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NáOðN§YàV‚„§!„výV¶R0"
+ dlc033_reason_colonists:0 "The §YEl Dorado Expansion§! adds Gold Fleets, the Treaty of Tordesillas and many new exploration events for colonial nations."
+ dlc033_reason_colonists_reason:1 "\nWe're recommending this expansion as you've picked a nation that is well-placed to engage in §Ycolonialism§!."
+ dlc034_reason_south_american_natives:0 "The §YSouth American Unit Pack§! adds 12 new unit models for §YSouth American§! and §YAndean§! natives, including §YInca§!, §YMapuche§! and §YTupinamba§!."
+ dlc034_reason_south_american_natives_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YWSŽ2m§!ŸSOOlýV¶R0"
+ dlc035_reason_mesoamerican_natives:0 "The §YMesoamerican Unit Pack§! adds 12 new unit models for §YMesoamerican§! natives, including §YAztec§!, §YMaya§! and §YMixtec§!."
+ dlc035_reason_mesoamerican_natives_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§Y-NŽ2m§!ŸSOOlýV¶R0"
+ dlc036_reason_colonists:0 "The §YSongs of Exploration Music Pack§! adds five new songs inspired by the §YAge of Exploration§! that will play during peacetime as colonies are established in the newly discovered lands."
+ dlc036_reason_colonists_reason:1 "\nWe're recommending this music pack as you've picked a nation that is well-placed to engage in §Ycolonialism§!."
+ dlc037_reason_generic:0 "The §YGuns, Drums and Steel Volume 2 Music Pack§! adds five new metal-inspired songs that up the tempo, crank up the bass and further enhance the Europa Universalis listening experience."
+ dlc039_reason_generic:0 "The §YCommon Sense Expansion§! adds new game mechanics including Parliaments, new subject interactions, Government Ranks, Free Cities in the §YHoly Roman Empire§! and new gameplay for §YProtestants§! and §YBuddhists§!."
+ dlc039_reason_protestant:0 "The §YCommon Sense Expansion§! adds Church Power to §YProtestantism§!, allowing you to customize your version of it. It also adds further features, including Parliaments, new subject interactions and Government Ranks."
+ dlc039_reason_protestant_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y°eYe§!ýV¶R0"
+ dlc039_reason_christian_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NïSåN§Y9eáO°eYe§!„v§Y)YINYe§!ýV¶R0"
+ dlc039_reason_buddhist:1 "The §YCommon Sense Expansion§! adds the Karma system to §YBuddhism§!, as well as further features including Parliaments, new subject interactions and Government Ranks."
+ dlc039_reason_buddhist_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YiOYe§!ýV¶R0"
+ dlc039_reason_parliament:0 "The §YCommon Sense Expansion§! adds a parliamentary system for constitutional republics and monarchies, as well as the English Monarchy. It allows you to grant your provinces seats in parliament and bribe them to vote on issues that strengthen your nation."
+ dlc039_reason_parliament_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NVNSåb	g§Y®‹O§!„výV¶R0"
+ dlc039_reason_theocracy:0 "The §YCommon Sense Expansion§! adds the Devotion mechanic and various flavor events to §YTheocracies§!, as well as further features including Parliaments, new subject interactions and Government Ranks."
+ dlc039_reason_theocracy_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y^yCgýV§!0"
+ dlc039_reason_free_city:0 "The §YCommon Sense Expansion§! adds the Free City mechanic to the §YHoly Roman Empire§!: Small nations with sufficient development can be granted Free City status, giving them a unique set of bonuses and penalties."
+ dlc039_reason_free_city_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y^y1WWlš^ýV§!„v§Yê1u^§!0"
+ dlc039_reason_hre_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Y^y1WWlš^ýV§!„výV¶R0"
+ dlc040_reason_christian_theocracy:0 "The §YTheocracies Unit Pack§! adds 16 new unit models for a number of §YChristian Theocratic§! nations, including the §YLivonian and Teutonic Orders§!, the §YPapacy§! and the §YKnights§!."
+ dlc040_reason_christian_theocracy_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YúWcwYe^yCgýV§!0"
+ dlc041_reason_buddhists:1 "The §YBuddhists Unit Pack§! adds 16 new unit models for a number of §YAsian Buddhist§! countries, including §YTibet§!, §YLan Xang§!, §YKandy§! and §YDai Viet§!."
+ dlc041_reason_buddhists_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YiOYe§!ýV¶R0"
+ dlc042_reason_great_nation:0 "The §YGreat Nations Unit Pack§! adds 17 new unit models for the §YGreat Powers§! of §YEurope§! and §YEurasia§!, including §YGreat Britain§!, §YRussia§! and the §YOttomans§!."
+ dlc042_reason_great_nation_reason:2 "\nWe're recommending this unit pack as you've picked a §YGreat Nation§! that gets new unit models as part of this pack."
+ dlc043_reason_free_city:0 "The §YFree Cities Unit Pack§! adds 15 new unit models for the §YFree Cities§! of the §YHoly Roman Empire§!, including §YHamburg§!, §YNuremberg§!, §YFrankfurt§! and §YUlm§!."
+ dlc043_reason_free_city_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§Yê1u^§!0"
+ dlc044_reason_east_asia:0 "The §YKairi's Soundtrack Music Pack§! adds five new songs inspired by the sounds of §YEast Asia§!."
+ dlc044_reason_east_asia_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*N§YNšN§!ýV¶R0"
+ dlc046_reason_zaz_are_cossacks:0 "The §YCossacks Expansion§! adds new game mechanics including three special types of estates, special mechanics for the Cossack and Horde governments, Diplomatic Feedback and Native Policies."
+ dlc046_reason_zaz_are_cossacks_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YNbâlWíp§!ÿå‹ýVVNSåb	gåT(„KQ?eSO0"
+ dlc046_reason_steppe:0 "The §YCossacks Expansion§! adds new game mechanics for the §YSteppe§! region including Cossack estates and nations, Horde nations and various flavor events for the region."
+ dlc046_reason_steppe_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y'YIƒŸS§!N„výV¶R0"
+ dlc046_reason_tengri:0 "The §YCossacks Expansion§! adds the ability for §YTengri§! nations to choose a Syncretic Faith, as well as further game mechanics and flavor events for the Steppe region."
+ dlc046_reason_tengri_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y•u)Y§!ýV¶R0"
+ dlc046_reason_horde:0 "The §YCossacks Expansion§! adds new game mechanics for §YHorde§! nations, including Horde Unity, Razing and a unique Estate, as well as further game mechanics and flavor events for the Steppe region."
+ dlc046_reason_horde_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y8ngr§!ýV¶R0"
+ dlc047_reason_black_sea:0 "The §YBlack Sea Unit Pack§! adds 32 new unit models for §YZaporozhie§!, §YCrimea§!, §YCircassia§!, §YTheodoro§!, §YAvaria§! and §YGazikumukh§!."
+ dlc047_reason_black_sea_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§Y8ngr§!ýV¶R0"
+ dlc048_reason_horde:1 "§YO'YèK„USMOS§!žX R†N32Íy°eUSMO!j‹Wÿ(uŽN§Y^(g?Q§!ÿ§Y'Y^§!ÿ§Yú‹Öv§!ÿ§YLNyQ+RKQ§!åNÊSvQÖN4NÑ„vèK„ýV¶R0"
+ dlc048_reason_horde_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§Y8ngr§!ýV¶R0"
+ dlc049_reason_has_stuff:0 "The §YEuropean Cavalry Unit Pack§! adds 12 new cavalry unit models for §YFrance§!, §YBritain§! and §YSpain§!."
+ dlc050_reason_general:0 "The §YForts Pack§! adds 18 new models for forts of all culture groups."
+ dlc050_reason_general_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb†NN*NO(u‰^X„výV¶R0"
+ dlc050_reason_you_will_need_them_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb†NN*N—‰'YÏ‘‰^X„výV¶R0"
+ dlc052_reason_generic:0 "The §YSabaton Soundtrack Music Pack§! adds five new songs from the Swedish power metal band Sabaton, with songs about the art of war and the never-ending battles of mankind."
+ dlcXXX_reason_generic_music_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHNƒRHN8nbžX R†NúQr‚„v°eó—h0"
+ dlc052_reason_scandinavia_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*N§Y¯e*X„v³uôušN§!ýV¶R0"
+ dlc053_reason_has_stuff:1 "The §YCatholic Majors Unit Pack§! adds 9 new unique unit models to §YAustria§!, §YSpain§! and §YPoland§!, the major §YCatholic§! nations in §YEurope§!."
+ dlc054_reason_has_stuff:1 "The §YEvangelical Majors Unit Pack§! adds 8 new unique models to §YSweden§!, §YBrandenburg§! and §YFrance§!, the major participants of the §YEvangelical League§! in the Thirty Years War."
+ dlc055_reason_generic:0 "The §YMare Nostrum Expansion§! adds new features such as Map Sharing, Trade Leagues and Condottieri, as well as new naval mechanics."
+ dlc055_reason_generic_naval:0 "The §YMare Nostrum Expansion§! adds new game mechanics such as Naval Missions, Raid Coasts, Trade Leagues and Condottieri."
+ dlc055_reason_generic_naval_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*Nåb	gúQwmãS„výV¶R0"
+ dlc055_reason_slave_raids:0 "The §YMare Nostrum Expansion§! adds the ability for certain nations to conduct Pirate Raids, as well as other mechanics such as Naval Missions, Trade Leagues and Condottieri."
+ dlc055_reason_slave_raids_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NO(u«R cwm¸SHg6R„výV¶R0"
+ dlc055_reason_merchants:0 "The §YMare Nostrum Expansion§! adds the ability for Merchant Republics to establish Trade Leagues, as well as other mechanics such as Naval Missions, Barbary Pirates and Condottieri."
+ dlc055_reason_merchants_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YFUNqQŒTýV§!0"
+ dlc056_reason_italy:0 "The §YItalian Unit Pack§! adds four historical infantry designs for the major §YItalian§! powers."
+ dlc056_reason_in_italy_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§Ya'Y)R§!„výV¶R0"
+ dlc057_reason_in_east_africa:0 "The §YEast African Unit Pack§! adds four historical infantry designs for the major powers around the §YHorn of Africa§!."
+ dlc057_reason_in_east_africa_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§YN^—§!„výV¶R0"
+ dlc058_reason_in_north_africa:0 "The §YNorth African Unit Pack§! adds four historical infantry designs for the major powers of §YNorth Africa§!."
+ dlc058_reason_in_north_africa_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§YS^—§!„výV¶R0"
+ dlc059_reason_east_asia:0 "The §YKairi's Soundtrack Part II Music Pack§! adds five new songs inspired by the regions of the §YFar East§!, from the grasslands of the Khanate to the shores of the southern seas of Asia."
+ dlc059_reason_east_asia_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*NMOŽN§YÜN§!„výV¶R0"
+ dlc060_reason_generic:0 "The §YRights of Man Expansion§! adds new game mechanics including Great Powers, Abdications, Monarch Personalities, and Consorts, as well as a large number of accompanying flavor events."
+ dlc060_reason_ottomans:0 "The §YRights of Man Expansion§! adds special mechanics to the §YOttoman§! government form, as well as other features such as Great Powers, Abdications and Monarch Personalities."
+ dlc060_reason_ottomans_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YeY¯eüf§!0"
+ dlc060_reason_fetishism:0 "The §YRights of Man Expansion§! adds cult mechanics to §YFetishist§! nations, as well as other features such as Great Powers, Abdications and Monarch Personalities."
+ dlc060_reason_fetishism_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YÜbirYe§!ýV¶R0"
+ dlc060_reason_coptic:0 "The §YRights of Man Expansion§! adds Blessings and Holy Site mechanics to §YCoptic§! nations, as well as other features such as Great Powers, Abdications and Monarch Personalities."
+ dlc060_reason_coptic_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YÑynfyrYe§!ýV¶R0"
+ dlc061_reason_hre:0 "The §YGerman Princes Unit Pack§! adds new army models and textures for the major players in the §YHoly Roman Empire§!."
+ dlc061_reason_in_hre_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§Y^y1WWlš^ýV§!„výV¶R0"
+ dlc062_reason_west_africa:0 "The §YWest African Unit Pack§! adds new army models and textures for countries in §YWest Africa§!."
+ dlc062_reason_west_africa_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§Y‰^—§!„výV¶R0"
+ dlc063_reason_europe:0 "The §YSongs of Regency Music Pack§! adds four songs composed to complement the content added in §YRights of Man§!."
+ dlc063_reason_europe_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*N§Y'k2m§!ýV¶R0"
+ dlc065_reason_sweden:0 "The §YFredman's Epistles Music Pack§! adds a collection of 15 traditional Swedish songs from the 18th century."
+ dlc065_reason_sweden_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†N§Y^txQ§!0"
+ dlc066_reason_generic:0 "§Y)Y‹TibUSS§!žX R†N°e„v8nbHg6RÿSìb†SòSöeãNNÄžÑ‘öegåNÊS§YNšN§!ýV¶R„vyrŠkHg6R0"
+ dlc066_reason_china:0 "The §YMandate of Heaven Expansion§! adds many new game mechanics for the §YEmperor of China§!, giving it further tools and challenges for both internal and foreign policy."
+ dlc066_reason_china_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Y-NýV§!„výV¶R0"
+ dlc066_reason_japan:0 "The §YMandate of Heaven Expansion§! adds new game mechanics to the §YJapanese Shogunate§! and the Daimyos that owe loyalty to it."
+ dlc066_reason_japan_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Yåe,g§!„výV¶R0"
+ dlc066_reason_manchu:0 "The §YMandate of Heaven Expansion§! adds the new Banners mechanic to the §YManchu§!, allowing them to rally their warlords to reinforce their army."
+ dlc066_reason_manchu_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Yán2m§!„výV¶R0"
+ dlc066_reason_east_asia_generic:0 "§Y)Y‹TibUSS§!HN§YNšN§!žX R†N°e„vHg6RÿSìb§Y-NNS^ýV§!Hg6Rÿå‹0WHS„vvQÖNýV¶RïSåNdk±Rðy)Yg‡v^„vRµ^0"
+ dlc066_reason_east_asia_generic_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§YNšN§!„výV¶R0"
+ dlc067_reason_japan:0 "The §YDaimyo Unit Pack§! adds new army models and textures for 12 §YJapanese Daimyos§!."
+ dlc067_reason_japan_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NMOŽN§Yåe,g§!„výV¶R0"
+ dlc068_reason_has_stuff:0 "The §YAsian Majors Unit Pack§! adds new army models and textures for §YMing§!, §YQing§!, §YJapan§! and §YKorea§!."
+ dlc069_reason_has_stuff:1 "The §YNorthern Unit Pack§! adds new tribal army models and textures for the §YOirat§!, §YChagatai§!, §YMongol§! and §YManchu§! forces."
+ dlc070_reason_generic:1 "The §YArtillery Pack§! adds new artillery sprites for all culture groups."
+ dlc070_reason_generic_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*NO(u®puQ„výV¶R0"
+ dlc071_reason_east_asia:1 "The §YAsian Ships Pack§! adds new warship models for §YEast Asian§! countries, including the feared Korean Turtle ships and unique Japanese designs."
+ dlc071_reason_east_asia_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YNšN§!ýV¶R0"
+ dlc072_reason_russia:0 "The §YThird Rome Immersion Pack§! adds new mechanics for §YRussia§! such as Tsardoms and Principalities, Streltsy units and colonizing the Siberian Frontier, as well as 48 new unit models for nations in and around the Russian borders."
+ dlc072_reason_russia_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§YÄOW¯e§!ÃV0W&^„výV¶R0"
+ dlc076_reason_russia:0 "The §YRus Awaken Music Pack§! adds music inspired by the rise of the §YRussian nation§!."
+ dlc076_reason_russia_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*NMOŽN§YÄOW¯e§!ÃV0W&^„výV¶R0"
+ dlc077_reason_muslim:0 "The §YCradle of Civilization Expansion§! adds new mechanics and for §YMuslim§! nations, including Islamic Schools and the ability to propagate your religion via trade policies."
+ dlc077_reason_muslim_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YFz¯e—g§!ýV¶R0"
+ dlc077_reason_middle_east:0 "The §YCradle of Civilization Expansion§! adds new mechanics and for §YMiddle Eastern§! and §YMuslim§! nations, including Islamic Schools, new government forms and the ability to propagate your religion via trade policies."
+ dlc077_reason_middle_east_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§Y-NN§!ýV¶R0"
+ dlc077_reason_ottoman:0 "The §YCradle of Civilization Expansion§! adds special mechanics for the §YOttoman§! government and improvements to Janissaries, as well as other features for §YMiddle Eastern§! and §YMuslim§! nations such as Islamic Schools."
+ dlc077_reason_ottoman_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YeY¯eüf§!0"
+ dlc077_reason_tims:0 "The §YCradle of Civilization Expansion§! adds special mechanics for the §YTimurids§!, with the ability for powerful countries in the region to Enthrone a Timurid Prince and Claim Timur's Legacy."
+ dlc077_reason_tims_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Y^(g?Q§!bƒR„vN*N^SýV0"
+ dlc077_reason_mamluks:0 "The §YCradle of Civilization Expansion§! adds special mechanics for the §YMamluk§! government, as well as other features for §YMiddle Eastern§! and §YMuslim§! nations such as Islamic Schools."
+ dlc077_reason_mamluks_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YlšFzœKQ§!0"
+ dlc077_reason_persia:0 "The §YCradle of Civilization Expansion§! adds special mechanics such as the new §YFeudal Theocracy§! government for §YPersia§!, as well as other features for §YMiddle Eastern§! and §YMuslim§! nations such as Islamic Schools."
+ dlc077_reason_persia_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NïSåNbËz§Yâl¯e§!„výV¶R0"
+ dlc077_reason_feudal_theocracy:0 "The §YCradle of Civilization Expansion§! adds special mechanics for the new §YFeudal Theocracy§! government, as well as other features for §YMiddle Eastern§! and §YMuslim§! nations such as Islamic Schools."
+ dlc077_reason_feudal_theocracy_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Y?–S¾ÔkÒR§!ÿå‹ýVåb	gyrŠk„v§YSú^^yCg6R§!?eSO0"
+ dlc077_reason_tribal_federation:0 "The §YCradle of Civilization Expansion§! adds special mechanics for the new §YTribal Federation§! government, as well as other features for §YMiddle Eastern§! and §YMuslim§! nations such as Islamic Schools."
+ dlc077_reason_tribal_federation_reason:2 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*Nåb	gyrŠk„v§YèK„Twßv§!?eSO„výV¶R0"
+ dlc078_reason_arabia:0 "The §YPeninsula Unit Pack§! adds new unit models and textures for countries in the §YArabian Peninsula§!."
+ dlc078_reason_arabia_reason:3 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Y?–Éb=O§!„výV¶R0"
+ dlc079_reason_persia:0 "The §YPersian Unit Pack§! adds new unit models and textures for §YPersia§! and other countries in the §YIranian§! culture group."
+ dlc079_reason_persia_reason:3 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YOg§!‡eSÄu„výV¶R0"
+ dlc080_reason_has_stuff:0 "The §YRivers Unit Pack§! adds new unit models and textures for countries based around the §YTigris§! and §YEuphrates§! rivers."
+ dlc081_reason_middle_east:0 "The §YKairi's Soundtrack 3 - Ottoman Tunes§! music pack adds new music to fit a §YMiddle Eastern§! theme."
+ dlc081_reason_middle_east_reason:1 "\nbìN¨cPƒdkó—PNSÿàVHN`O	éb†NN*N§Y-NN§!ýV¶R0"
+ dlc082_reason_iranian:2 "The §YIranian Advisor Pack§! adds 42 new portraits for §YIranian§! advisors."
+ dlc082_reason_iranian_reason:2 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb†NN*N§YOg§!‡eSÄu„výV¶R0"
+ dlc082_reason_iran_region_reason:1 "\nbìN¨cPƒdk…Q¹RSÿàVHN`O	éb†NN*NMOŽN§YOg§!0WHS„výV¶R0"
+ dlc083_reason_muslim:1 "The §YMuslim Female Advisor Portraits Pack§! adds 21 new female portraits for §YMuslim§! nations."
+ dlc084_reason_really_generic:0 "The §YRule Britannia Immersion Pack§! adds new game mechanics including Innovativeness, the Industrial Revolution, and coal as a trade good."
+ dlc084_reason_really_generic_reason:1 "\nbìN¨cPƒdkibUSSÿàVHNƒRHN8nbžX R†N°e…Q¹R0"
+ dlc084_reason_generic:0 "The §YRule Britannia Immersion Pack§! adds customized mission trees, unit packs and music for all countries in the §YBritish Isles§!, as well as game mechanics such as Innovativeness and the Industrial Revolution."
+ dlc084_reason_generic_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§YNR ˜²›S§!„výV¶R0"
+ dlc084_reason_we_rule_the_waves:0 "The §YRule Britannia Immersion Pack§! adds customized mission trees, unit packs and music to §YEngland§! and §YGreat Britain§!, as well as game mechanics such as Innovativeness and the Industrial Revolution."
+ dlc084_reason_we_rule_the_waves_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Yñ‚<hpQ§!b§Y'YNR ˜§!ÿÙ›NýV¶R=fibUSS„v&q¹pNb(W0"
+ dlc090_reason_generic:0 "§Y¾idibUSS§!žX R†N°e„v8nbHg6RÿSìb?eœ^9ei—0žXHV„v?eVrû|ßu08flQøS•bDÊSGSµu8f-NÃV„výw›R0"
+ dlc090_reason_trade_companies:0 "The §YDharma Expansion§! adds new game mechanics for Trade Companies as an expanded Government Reform system and the ability to upgrade Trade Centers."
+ dlc090_reason_trade_companies_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NTb1S–kl^ýV„výV¶R0"
+ dlc090_reason_indian:0 "The §YDharma Expansion§! adds new game content for §YIndia§!, including customized Mission Trees, Government Reforms and Estates."
+ dlc090_reason_mughals:0 "§Y¾idibUSS§!HN§Y«ƒgS?Q§!žX R†Nìr	g?eSOÿv^ibUS†N?eœ^9ei—Hg6RN8flQøSHg6R0"
+ dlc090_reason_mughals_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NTbËz§Y«ƒgS?Q§!„výV¶R0"
+ dlc091_reason_indian_hindu:0 "The §YHindu Unit Pack§! adds new army models for the §YIndian Hindu§! nations."
+ dlc091_reason_indian_hindu_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YpS¦^§!„v§YpS¦^Ye§!ýV¶R0"
+ dlc092_reason_indian_muslim:0 "The §YIndian Sultanate Unit Pack§! adds new army models for the §YIndian Muslim§! nations."
+ dlc092_reason_indian_muslim_reason:1 "\nbìN¨cPƒdkUSMOSÿàVHN`O	éb†NN*N§YpS¦^§!„v§YFz¯e—g§!ýV¶R0"
+ dlc093_reason_india:0 "The §YDharma Advisor Portraits Pack§! adds 42 new advisor portraits for §YIndian§! nations and cultures."
+ dlc094_reason_india:0 "The §YDharma Music Pack§! adds new and original music inspired by the sounds and traditions of §YIndia§!."
+ dlc095_reason_iberian:0 "The §YGolden Century Immersion Pack§! adds new content for §YIberian§! nations, including Holy Orders, expanded Mission Trees, and new unit and ship models."
+ dlc095_reason_iberian_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YOÔk)RšN§!ýV¶R0"
+ dlc095_reason_pirates:0 "The §YGolden Century Immersion Pack§! adds Pirate Republics and their accompanying mechanics and unit models to the game."
+ dlc095_reason_pirates_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb„výV¶RïSåNÇZPúQÐg›N	ébwbHNwm×vqQŒTýV0"
+ dlc095_reason_pirates_decision_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YôT»Áe§!ÿå‹ýV(W8nbVËYTˆVëV1S	gHgOØSbwm×vqQŒTýV0"
+ dlc095_reason_maghreb:0 "The §YGolden Century Immersion Pack§! adds new content for §YMaghrebi§! nations, including expanded Mission Trees, new ship models and the ability to form Pirate Republics if certain decisions are taken."
+ dlc095_reason_maghreb_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NMOŽN§Ylš<hÌ‘^§!0WHS„výV¶R0"
+ dlc072_reason_orthodox:0 "§Y,r	NWlš‰lxmS§!HN§YNckYe§!ýV¶RžX R†N°e„v8nbHg6RÿSìbT†Ú‹0—RYe1WÏPŒTSØšÑSUS0WHS¾‹HNýINYeHS„výw›R0"
+ dlc072_reason_orthodox_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*N§YNckYe§!ýV¶R0"
+ dlc060_reason_prussia:0 "§YºNCgibUSS§!HN§YnfœëX§!?eSOžX R†Nìr	gHg6RÿåNÊSSìbRHV0MOŒTTIN*N'`IrvQÖN…Q¹R0"
+ dlc060_reason_prussia_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YnfœëX§!0"
+ dlc060_reason_prussia_reason2:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†NN*NïSåNbËz§YnfœëX§!„výV¶R0"
+ dlc090_reason_missions_tau:0 "§Y¾idibUSS§!HN§YNT§!žX R†N°e„vûN¡Rhÿv^žXHV†N?eVrû|ßuNGSµu8f-NÃV„výw›R0"
+ dlc090_reason_missions_tau_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§YNT§!0"
+ dlc090_reason_missions_tim:0 "§Y¾idibUSS§!HN§Y^(g?Q§!žX R†N°e„vûN¡Rhÿv^žXHV†N?eVrû|ßuNGSµu8f-NÃV„výw›R0"
+ dlc090_reason_missions_tim_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Y^(g?Q§!0"
+ dlc018_reason_tc_reason:1 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb„výV¶RTú^ËzN*NwmY^ýVv^ÎN8flQøS-N·ƒÊv0"
+ dlc066_reason_emperor_reason:0 "\nbìN¨cPƒdkibUSSÿàVHN`O	éb†N§Y-NýV‡v^§!0"
